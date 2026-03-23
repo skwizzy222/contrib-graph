@@ -44,3 +44,4 @@
 - 2026-03-23T15:17:51 refactor parser (#42)
 - 2026-03-23T15:21:07 add tests (#43)
 - 2026-03-23T15:30:44 speed up cache (#44)
+- 2026-03-23T15:44:01 remove dead code (#45)
