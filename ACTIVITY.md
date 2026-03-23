@@ -24,3 +24,4 @@
 - 2026-03-23T13:20:03 improve error messages (#22)
 - 2026-03-23T13:24:45 handle empty input (#23)
 - 2026-03-23T13:32:29 add tests (#24)
+- 2026-03-23T13:43:32 add CI check (#25)
