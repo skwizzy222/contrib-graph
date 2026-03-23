@@ -80,3 +80,4 @@
 - 2026-03-23T21:26:14 harden input validation (#78)
 - 2026-03-23T21:45:14 fix edge case in lexer (#79)
 - 2026-03-23T22:20:16 rename helpers (#80)
+- 2026-03-23T22:43:57 add logging (#81)
