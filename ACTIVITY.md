@@ -74,3 +74,4 @@
 - 2026-03-23T20:23:08 handle empty input (#72)
 - 2026-03-23T20:34:25 split module (#73)
 - 2026-03-23T20:58:05 tidy imports (#74)
+- 2026-03-23T20:58:10 harden input validation (#75)
