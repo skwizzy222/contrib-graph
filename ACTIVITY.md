@@ -17,3 +17,4 @@
 - 2026-03-23T11:53:42 bump dependencies (#15)
 - 2026-03-23T12:12:50 clean up config (#16)
 - 2026-03-23T12:14:24 refactor parser (#17)
+- 2026-03-23T12:18:41 polish README (#18)
