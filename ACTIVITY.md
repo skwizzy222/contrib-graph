@@ -77,3 +77,4 @@
 - 2026-03-23T20:58:10 harden input validation (#75)
 - 2026-03-23T21:12:26 improve error messages (#76)
 - 2026-03-23T21:12:47 simplify branch logic (#77)
+- 2026-03-23T21:26:14 harden input validation (#78)
