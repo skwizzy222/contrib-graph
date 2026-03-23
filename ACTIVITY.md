@@ -67,3 +67,4 @@
 - 2026-03-23T19:43:04 update config schema (#65)
 - 2026-03-23T19:43:27 split module (#66)
 - 2026-03-23T19:51:58 fix flaky test (#67)
+- 2026-03-23T19:56:26 refactor parser (#68)
