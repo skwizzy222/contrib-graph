@@ -72,3 +72,4 @@
 - 2026-03-23T20:03:50 add tests (#70)
 - 2026-03-23T20:12:22 bump dependencies (#71)
 - 2026-03-23T20:23:08 handle empty input (#72)
+- 2026-03-23T20:34:25 split module (#73)
