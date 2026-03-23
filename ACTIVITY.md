@@ -64,3 +64,4 @@
 - 2026-03-23T19:12:48 rename helpers (#62)
 - 2026-03-23T19:26:40 update config schema (#63)
 - 2026-03-23T19:30:23 harden input validation (#64)
+- 2026-03-23T19:43:04 update config schema (#65)
