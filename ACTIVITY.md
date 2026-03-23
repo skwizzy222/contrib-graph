@@ -42,3 +42,4 @@
 - 2026-03-23T14:57:13 bump dependencies (#40)
 - 2026-03-23T15:16:06 tweak defaults (#41)
 - 2026-03-23T15:17:51 refactor parser (#42)
+- 2026-03-23T15:21:07 add tests (#43)
