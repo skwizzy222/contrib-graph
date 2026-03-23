@@ -62,3 +62,4 @@
 - 2026-03-23T18:56:29 add CI check (#60)
 - 2026-03-23T19:12:35 polish README (#61)
 - 2026-03-23T19:12:48 rename helpers (#62)
+- 2026-03-23T19:26:40 update config schema (#63)
