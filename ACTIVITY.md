@@ -16,3 +16,4 @@
 - 2026-03-23T11:43:19 clean up config (#14)
 - 2026-03-23T11:53:42 bump dependencies (#15)
 - 2026-03-23T12:12:50 clean up config (#16)
+- 2026-03-23T12:14:24 refactor parser (#17)
