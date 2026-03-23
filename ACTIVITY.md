@@ -41,3 +41,4 @@
 - 2026-03-23T14:52:48 fix typo (#39)
 - 2026-03-23T14:57:13 bump dependencies (#40)
 - 2026-03-23T15:16:06 tweak defaults (#41)
+- 2026-03-23T15:17:51 refactor parser (#42)
