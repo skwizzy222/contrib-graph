@@ -45,3 +45,4 @@
 - 2026-03-23T15:21:07 add tests (#43)
 - 2026-03-23T15:30:44 speed up cache (#44)
 - 2026-03-23T15:44:01 remove dead code (#45)
+- 2026-03-23T16:06:15 handle empty input (#46)
