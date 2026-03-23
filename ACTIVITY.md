@@ -22,3 +22,4 @@
 - 2026-03-23T12:34:37 tweak defaults (#20)
 - 2026-03-23T13:19:02 add tests (#21)
 - 2026-03-23T13:20:03 improve error messages (#22)
+- 2026-03-23T13:24:45 handle empty input (#23)
