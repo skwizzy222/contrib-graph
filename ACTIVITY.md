@@ -10,3 +10,4 @@
 - 2026-03-23T10:40:15 add logging (#8)
 - 2026-03-23T10:43:29 update config schema (#9)
 - 2026-03-23T10:54:54 harden input validation (#10)
+- 2026-03-23T11:03:43 split module (#11)
