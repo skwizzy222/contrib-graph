@@ -70,3 +70,4 @@
 - 2026-03-23T19:56:26 refactor parser (#68)
 - 2026-03-23T20:01:51 fix typo (#69)
 - 2026-03-23T20:03:50 add tests (#70)
+- 2026-03-23T20:12:22 bump dependencies (#71)
