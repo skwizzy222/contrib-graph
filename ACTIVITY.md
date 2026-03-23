@@ -49,3 +49,4 @@
 - 2026-03-23T16:09:14 update config schema (#47)
 - 2026-03-23T16:13:41 update config schema (#48)
 - 2026-03-23T16:28:18 harden input validation (#49)
+- 2026-03-23T16:49:15 refactor parser (#50)
