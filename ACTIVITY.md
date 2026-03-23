@@ -28,3 +28,4 @@
 - 2026-03-23T13:49:52 add logging (#26)
 - 2026-03-23T13:57:36 refactor parser (#27)
 - 2026-03-23T14:01:25 harden input validation (#28)
+- 2026-03-23T14:02:22 minor fixes (#29)
