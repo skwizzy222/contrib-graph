@@ -56,3 +56,4 @@
 - 2026-03-23T17:20:41 rename helpers (#54)
 - 2026-03-23T18:03:34 split module (#55)
 - 2026-03-23T18:06:20 update config schema (#56)
+- 2026-03-23T18:45:59 bump dependencies (#57)
