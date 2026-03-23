@@ -65,3 +65,4 @@
 - 2026-03-23T19:26:40 update config schema (#63)
 - 2026-03-23T19:30:23 harden input validation (#64)
 - 2026-03-23T19:43:04 update config schema (#65)
+- 2026-03-23T19:43:27 split module (#66)
