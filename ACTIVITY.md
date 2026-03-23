@@ -20,3 +20,4 @@
 - 2026-03-23T12:18:41 polish README (#18)
 - 2026-03-23T12:32:18 bump dependencies (#19)
 - 2026-03-23T12:34:37 tweak defaults (#20)
+- 2026-03-23T13:19:02 add tests (#21)
