@@ -55,3 +55,4 @@
 - 2026-03-23T17:14:56 refactor parser (#53)
 - 2026-03-23T17:20:41 rename helpers (#54)
 - 2026-03-23T18:03:34 split module (#55)
+- 2026-03-23T18:06:20 update config schema (#56)
