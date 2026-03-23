@@ -15,3 +15,4 @@
 - 2026-03-23T11:41:21 simplify branch logic (#13)
 - 2026-03-23T11:43:19 clean up config (#14)
 - 2026-03-23T11:53:42 bump dependencies (#15)
+- 2026-03-23T12:12:50 clean up config (#16)
