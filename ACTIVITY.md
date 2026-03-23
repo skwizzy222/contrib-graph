@@ -43,3 +43,4 @@
 - 2026-03-23T15:16:06 tweak defaults (#41)
 - 2026-03-23T15:17:51 refactor parser (#42)
 - 2026-03-23T15:21:07 add tests (#43)
+- 2026-03-23T15:30:44 speed up cache (#44)
