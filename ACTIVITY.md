@@ -30,3 +30,4 @@
 - 2026-03-23T14:01:25 harden input validation (#28)
 - 2026-03-23T14:02:22 minor fixes (#29)
 - 2026-03-23T14:09:51 refactor parser (#30)
+- 2026-03-23T14:11:30 speed up cache (#31)
