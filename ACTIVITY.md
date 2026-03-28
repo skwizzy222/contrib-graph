@@ -142,3 +142,4 @@
 - 2026-03-28T19:50:01 fix flaky test (#140)
 - 2026-03-28T20:04:27 update config schema (#141)
 - 2026-03-28T20:04:50 add tests (#142)
+- 2026-03-28T20:51:00 bump dependencies (#143)
