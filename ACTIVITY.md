@@ -94,3 +94,4 @@
 - 2026-03-28T10:50:09 rename helpers (#92)
 - 2026-03-28T10:52:21 fix typo (#93)
 - 2026-03-28T11:00:55 rename helpers (#94)
+- 2026-03-28T11:02:05 speed up cache (#95)
