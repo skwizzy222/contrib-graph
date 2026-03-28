@@ -132,3 +132,4 @@
 - 2026-03-28T18:15:11 add CI check (#130)
 - 2026-03-28T18:21:46 minor fixes (#131)
 - 2026-03-28T18:27:55 simplify branch logic (#132)
+- 2026-03-28T18:31:33 update docs (#133)
