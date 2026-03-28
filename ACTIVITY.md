@@ -141,3 +141,4 @@
 - 2026-03-28T19:44:19 add example (#139)
 - 2026-03-28T19:50:01 fix flaky test (#140)
 - 2026-03-28T20:04:27 update config schema (#141)
+- 2026-03-28T20:04:50 add tests (#142)
