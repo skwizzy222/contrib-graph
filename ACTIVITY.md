@@ -134,3 +134,4 @@
 - 2026-03-28T18:27:55 simplify branch logic (#132)
 - 2026-03-28T18:31:33 update docs (#133)
 - 2026-03-28T18:34:49 harden input validation (#134)
+- 2026-03-28T18:43:51 handle empty input (#135)
