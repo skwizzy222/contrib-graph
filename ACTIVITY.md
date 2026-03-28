@@ -127,3 +127,4 @@
 - 2026-03-28T17:26:59 add CI check (#125)
 - 2026-03-28T17:47:10 tweak defaults (#126)
 - 2026-03-28T17:50:42 small cleanup (#127)
+- 2026-03-28T17:59:25 improve naming (#128)
