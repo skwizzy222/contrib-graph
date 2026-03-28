@@ -105,3 +105,4 @@
 - 2026-03-28T13:13:31 fix edge case in lexer (#103)
 - 2026-03-28T13:15:57 optimize loop (#104)
 - 2026-03-28T13:17:51 extract helper (#105)
+- 2026-03-28T13:19:19 bump dependencies (#106)
