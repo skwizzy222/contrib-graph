@@ -102,3 +102,4 @@
 - 2026-03-28T12:27:13 harden input validation (#100)
 - 2026-03-28T12:42:10 speed up cache (#101)
 - 2026-03-28T12:44:38 rename helpers (#102)
+- 2026-03-28T13:13:31 fix edge case in lexer (#103)
