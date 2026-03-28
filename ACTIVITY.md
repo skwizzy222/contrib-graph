@@ -110,3 +110,4 @@
 - 2026-03-28T13:55:56 fix flaky test (#108)
 - 2026-03-28T14:05:28 polish README (#109)
 - 2026-03-28T14:10:12 update config schema (#110)
+- 2026-03-28T14:38:44 add CI check (#111)
