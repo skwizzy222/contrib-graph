@@ -118,3 +118,4 @@
 - 2026-03-28T16:02:15 tidy imports (#116)
 - 2026-03-28T16:10:46 rename helpers (#117)
 - 2026-03-28T16:23:42 remove dead code (#118)
+- 2026-03-28T16:30:27 fix edge case in lexer (#119)
