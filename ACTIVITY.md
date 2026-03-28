@@ -86,3 +86,4 @@
 - 2026-03-28T09:06:15 speed up cache (#84)
 - 2026-03-28T09:12:40 optimize loop (#85)
 - 2026-03-28T09:16:44 small cleanup (#86)
+- 2026-03-28T09:17:48 tweak defaults (#87)
