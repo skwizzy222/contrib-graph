@@ -137,3 +137,4 @@
 - 2026-03-28T18:43:51 handle empty input (#135)
 - 2026-03-28T19:04:28 fix flaky test (#136)
 - 2026-03-28T19:13:35 add example (#137)
+- 2026-03-28T19:39:24 improve error messages (#138)
