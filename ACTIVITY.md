@@ -120,3 +120,4 @@
 - 2026-03-28T16:23:42 remove dead code (#118)
 - 2026-03-28T16:30:27 fix edge case in lexer (#119)
 - 2026-03-28T16:38:47 fix edge case in lexer (#120)
+- 2026-03-28T16:38:48 small cleanup (#121)
