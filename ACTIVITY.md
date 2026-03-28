@@ -148,3 +148,4 @@
 - 2026-03-28T21:23:53 bump dependencies (#146)
 - 2026-03-28T21:25:50 add tests (#147)
 - 2026-03-28T22:30:39 add CI check (#148)
+- 2026-03-28T22:50:18 extract helper (#149)
