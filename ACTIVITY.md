@@ -113,3 +113,4 @@
 - 2026-03-28T14:38:44 add CI check (#111)
 - 2026-03-28T15:03:18 fix edge case in lexer (#112)
 - 2026-03-28T15:09:32 simplify branch logic (#113)
+- 2026-03-28T15:26:01 add logging (#114)
