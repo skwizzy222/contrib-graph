@@ -117,3 +117,4 @@
 - 2026-03-28T15:45:33 polish README (#115)
 - 2026-03-28T16:02:15 tidy imports (#116)
 - 2026-03-28T16:10:46 rename helpers (#117)
+- 2026-03-28T16:23:42 remove dead code (#118)
