@@ -111,3 +111,4 @@
 - 2026-03-28T14:05:28 polish README (#109)
 - 2026-03-28T14:10:12 update config schema (#110)
 - 2026-03-28T14:38:44 add CI check (#111)
+- 2026-03-28T15:03:18 fix edge case in lexer (#112)
