@@ -196,3 +196,4 @@
 - 2026-03-29T18:34:22 simplify branch logic (#194)
 - 2026-03-29T18:43:44 harden input validation (#195)
 - 2026-03-29T18:49:27 simplify branch logic (#196)
+- 2026-03-29T18:55:20 handle empty input (#197)
