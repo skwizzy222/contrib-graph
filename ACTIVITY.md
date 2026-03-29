@@ -204,3 +204,4 @@
 - 2026-03-29T20:05:18 harden input validation (#202)
 - 2026-03-29T20:22:12 add example (#203)
 - 2026-03-29T20:52:54 update config schema (#204)
+- 2026-03-29T21:07:50 clean up config (#205)
