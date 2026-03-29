@@ -179,3 +179,4 @@
 - 2026-03-29T14:00:46 improve naming (#177)
 - 2026-03-29T14:00:58 tidy imports (#178)
 - 2026-03-29T14:01:13 update config schema (#179)
+- 2026-03-29T14:09:58 simplify branch logic (#180)
