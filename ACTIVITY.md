@@ -158,3 +158,4 @@
 - 2026-03-29T09:58:57 update config schema (#156)
 - 2026-03-29T10:09:22 harden input validation (#157)
 - 2026-03-29T10:20:48 extract helper (#158)
+- 2026-03-29T10:22:04 update docs (#159)
