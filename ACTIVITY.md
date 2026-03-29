@@ -168,3 +168,4 @@
 - 2026-03-29T11:54:47 update config schema (#166)
 - 2026-03-29T12:17:23 optimize loop (#167)
 - 2026-03-29T12:21:24 simplify branch logic (#168)
+- 2026-03-29T12:23:34 speed up cache (#169)
