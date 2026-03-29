@@ -200,3 +200,4 @@
 - 2026-03-29T19:01:07 remove dead code (#198)
 - 2026-03-29T19:06:03 optimize loop (#199)
 - 2026-03-29T19:15:36 handle empty input (#200)
+- 2026-03-29T19:43:15 harden input validation (#201)
