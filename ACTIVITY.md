@@ -190,3 +190,4 @@
 - 2026-03-29T15:23:47 remove dead code (#188)
 - 2026-03-29T15:39:41 split module (#189)
 - 2026-03-29T16:53:21 small cleanup (#190)
+- 2026-03-29T18:02:04 polish README (#191)
