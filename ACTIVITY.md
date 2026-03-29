@@ -195,3 +195,4 @@
 - 2026-03-29T18:21:29 small cleanup (#193)
 - 2026-03-29T18:34:22 simplify branch logic (#194)
 - 2026-03-29T18:43:44 harden input validation (#195)
+- 2026-03-29T18:49:27 simplify branch logic (#196)
