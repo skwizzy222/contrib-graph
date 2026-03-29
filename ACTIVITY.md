@@ -202,3 +202,4 @@
 - 2026-03-29T19:15:36 handle empty input (#200)
 - 2026-03-29T19:43:15 harden input validation (#201)
 - 2026-03-29T20:05:18 harden input validation (#202)
+- 2026-03-29T20:22:12 add example (#203)
