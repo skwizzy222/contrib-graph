@@ -156,3 +156,4 @@
 - 2026-03-29T09:40:48 fix typo (#154)
 - 2026-03-29T09:58:42 tidy imports (#155)
 - 2026-03-29T09:58:57 update config schema (#156)
+- 2026-03-29T10:09:22 harden input validation (#157)
