@@ -176,3 +176,4 @@
 - 2026-03-29T13:22:28 minor fixes (#174)
 - 2026-03-29T13:33:05 fix flaky test (#175)
 - 2026-03-29T13:38:09 speed up cache (#176)
+- 2026-03-29T14:00:46 improve naming (#177)
