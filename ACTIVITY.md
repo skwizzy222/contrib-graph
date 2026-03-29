@@ -167,3 +167,4 @@
 - 2026-03-29T11:29:40 tweak defaults (#165)
 - 2026-03-29T11:54:47 update config schema (#166)
 - 2026-03-29T12:17:23 optimize loop (#167)
+- 2026-03-29T12:21:24 simplify branch logic (#168)
