@@ -188,3 +188,4 @@
 - 2026-03-29T15:08:26 speed up cache (#186)
 - 2026-03-29T15:18:17 extract helper (#187)
 - 2026-03-29T15:23:47 remove dead code (#188)
+- 2026-03-29T15:39:41 split module (#189)
