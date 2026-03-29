@@ -170,3 +170,4 @@
 - 2026-03-29T12:21:24 simplify branch logic (#168)
 - 2026-03-29T12:23:34 speed up cache (#169)
 - 2026-03-29T12:26:53 tidy imports (#170)
+- 2026-03-29T12:38:05 extract helper (#171)
