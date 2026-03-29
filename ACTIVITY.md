@@ -164,3 +164,4 @@
 - 2026-03-29T10:41:32 harden input validation (#162)
 - 2026-03-29T10:48:38 update config schema (#163)
 - 2026-03-29T11:05:48 bump dependencies (#164)
+- 2026-03-29T11:29:40 tweak defaults (#165)
