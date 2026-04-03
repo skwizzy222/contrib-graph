@@ -234,3 +234,4 @@
 - 2026-04-03T13:04:00 refactor parser (#232)
 - 2026-04-03T13:11:03 tidy imports (#233)
 - 2026-04-03T13:13:54 polish README (#234)
+- 2026-04-03T13:41:36 tweak defaults (#235)
