@@ -221,3 +221,4 @@
 - 2026-04-03T10:37:18 rename helpers (#219)
 - 2026-04-03T10:56:37 bump dependencies (#220)
 - 2026-04-03T11:06:40 remove dead code (#221)
+- 2026-04-03T11:07:08 fix edge case in lexer (#222)
