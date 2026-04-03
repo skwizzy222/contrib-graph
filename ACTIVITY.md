@@ -236,3 +236,4 @@
 - 2026-04-03T13:13:54 polish README (#234)
 - 2026-04-03T13:41:36 tweak defaults (#235)
 - 2026-04-03T14:01:25 handle empty input (#236)
+- 2026-04-03T14:14:31 clean up config (#237)
