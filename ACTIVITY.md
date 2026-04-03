@@ -219,3 +219,4 @@
 - 2026-04-03T09:28:16 polish README (#217)
 - 2026-04-03T09:30:11 improve error messages (#218)
 - 2026-04-03T10:37:18 rename helpers (#219)
+- 2026-04-03T10:56:37 bump dependencies (#220)
