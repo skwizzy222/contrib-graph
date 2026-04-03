@@ -267,3 +267,4 @@
 - 2026-04-03T20:35:34 optimize loop (#265)
 - 2026-04-03T20:39:50 refactor parser (#266)
 - 2026-04-03T20:58:20 tidy imports (#267)
+- 2026-04-03T21:20:30 handle empty input (#268)
