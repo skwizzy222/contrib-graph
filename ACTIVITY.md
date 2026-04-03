@@ -273,3 +273,4 @@
 - 2026-04-03T21:51:46 update docs (#271)
 - 2026-04-03T22:02:17 fix edge case in lexer (#272)
 - 2026-04-03T22:06:23 add CI check (#273)
+- 2026-04-03T22:22:45 improve error messages (#274)
