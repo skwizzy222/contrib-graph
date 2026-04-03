@@ -229,3 +229,4 @@
 - 2026-04-03T11:54:22 improve error messages (#227)
 - 2026-04-03T12:11:26 update config schema (#228)
 - 2026-04-03T12:12:16 tweak defaults (#229)
+- 2026-04-03T12:47:07 add CI check (#230)
