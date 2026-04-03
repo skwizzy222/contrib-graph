@@ -257,3 +257,4 @@
 - 2026-04-03T17:02:08 fix flaky test (#255)
 - 2026-04-03T17:04:33 fix flaky test (#256)
 - 2026-04-03T17:10:04 simplify branch logic (#257)
+- 2026-04-03T18:04:20 minor fixes (#258)
