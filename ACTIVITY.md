@@ -239,3 +239,4 @@
 - 2026-04-03T14:14:31 clean up config (#237)
 - 2026-04-03T14:15:19 small cleanup (#238)
 - 2026-04-03T14:24:05 refactor parser (#239)
+- 2026-04-03T14:29:30 improve naming (#240)
