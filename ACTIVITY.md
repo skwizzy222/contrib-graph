@@ -222,3 +222,4 @@
 - 2026-04-03T10:56:37 bump dependencies (#220)
 - 2026-04-03T11:06:40 remove dead code (#221)
 - 2026-04-03T11:07:08 fix edge case in lexer (#222)
+- 2026-04-03T11:26:36 improve error messages (#223)
