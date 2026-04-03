@@ -245,3 +245,4 @@
 - 2026-04-03T14:48:33 simplify branch logic (#243)
 - 2026-04-03T15:12:46 add tests (#244)
 - 2026-04-03T15:15:13 split module (#245)
+- 2026-04-03T15:28:48 split module (#246)
