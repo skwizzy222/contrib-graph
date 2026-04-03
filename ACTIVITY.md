@@ -271,3 +271,4 @@
 - 2026-04-03T21:33:12 add logging (#269)
 - 2026-04-03T21:48:57 rename helpers (#270)
 - 2026-04-03T21:51:46 update docs (#271)
+- 2026-04-03T22:02:17 fix edge case in lexer (#272)
