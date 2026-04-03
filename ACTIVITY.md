@@ -265,3 +265,4 @@
 - 2026-04-03T20:00:52 handle empty input (#263)
 - 2026-04-03T20:15:39 remove dead code (#264)
 - 2026-04-03T20:35:34 optimize loop (#265)
+- 2026-04-03T20:39:50 refactor parser (#266)
