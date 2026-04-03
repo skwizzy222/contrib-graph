@@ -230,3 +230,4 @@
 - 2026-04-03T12:11:26 update config schema (#228)
 - 2026-04-03T12:12:16 tweak defaults (#229)
 - 2026-04-03T12:47:07 add CI check (#230)
+- 2026-04-03T13:02:50 polish README (#231)
