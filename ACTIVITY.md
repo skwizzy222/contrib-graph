@@ -217,3 +217,4 @@
 - 2026-04-03T09:21:36 update docs (#215)
 - 2026-04-03T09:24:07 add example (#216)
 - 2026-04-03T09:28:16 polish README (#217)
+- 2026-04-03T09:30:11 improve error messages (#218)
