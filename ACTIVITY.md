@@ -270,3 +270,4 @@
 - 2026-04-03T21:20:30 handle empty input (#268)
 - 2026-04-03T21:33:12 add logging (#269)
 - 2026-04-03T21:48:57 rename helpers (#270)
+- 2026-04-03T21:51:46 update docs (#271)
