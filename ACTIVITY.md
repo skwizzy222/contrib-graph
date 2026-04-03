@@ -215,3 +215,4 @@
 - 2026-03-29T22:54:30 clean up config (#213)
 - 2026-04-03T09:12:15 simplify branch logic (#214)
 - 2026-04-03T09:21:36 update docs (#215)
+- 2026-04-03T09:24:07 add example (#216)
