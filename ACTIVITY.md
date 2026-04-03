@@ -253,3 +253,4 @@
 - 2026-04-03T16:20:52 polish README (#251)
 - 2026-04-03T16:38:52 remove dead code (#252)
 - 2026-04-03T16:41:26 remove dead code (#253)
+- 2026-04-03T16:47:00 small cleanup (#254)
