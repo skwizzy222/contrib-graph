@@ -241,3 +241,4 @@
 - 2026-04-03T14:24:05 refactor parser (#239)
 - 2026-04-03T14:29:30 improve naming (#240)
 - 2026-04-03T14:34:10 clean up config (#241)
+- 2026-04-03T14:37:33 add logging (#242)
