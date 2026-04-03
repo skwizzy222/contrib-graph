@@ -263,3 +263,4 @@
 - 2026-04-03T19:19:26 polish README (#261)
 - 2026-04-03T19:24:13 add CI check (#262)
 - 2026-04-03T20:00:52 handle empty input (#263)
+- 2026-04-03T20:15:39 remove dead code (#264)
