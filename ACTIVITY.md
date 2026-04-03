@@ -262,3 +262,4 @@
 - 2026-04-03T18:59:16 tweak defaults (#260)
 - 2026-04-03T19:19:26 polish README (#261)
 - 2026-04-03T19:24:13 add CI check (#262)
+- 2026-04-03T20:00:52 handle empty input (#263)
