@@ -259,3 +259,4 @@
 - 2026-04-03T17:10:04 simplify branch logic (#257)
 - 2026-04-03T18:04:20 minor fixes (#258)
 - 2026-04-03T18:16:45 add CI check (#259)
+- 2026-04-03T18:59:16 tweak defaults (#260)
