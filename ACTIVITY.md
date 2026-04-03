@@ -226,3 +226,4 @@
 - 2026-04-03T11:28:25 handle empty input (#224)
 - 2026-04-03T11:33:05 speed up cache (#225)
 - 2026-04-03T11:41:36 bump dependencies (#226)
+- 2026-04-03T11:54:22 improve error messages (#227)
