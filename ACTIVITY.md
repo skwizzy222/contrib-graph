@@ -287,3 +287,4 @@
 - 2026-04-04T10:56:39 clean up config (#285)
 - 2026-04-04T11:20:18 polish README (#286)
 - 2026-04-04T11:44:20 improve naming (#287)
+- 2026-04-04T11:56:26 fix flaky test (#288)
