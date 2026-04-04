@@ -306,3 +306,4 @@
 - 2026-04-04T15:42:20 improve error messages (#304)
 - 2026-04-04T15:44:11 handle empty input (#305)
 - 2026-04-04T16:05:45 update config schema (#306)
+- 2026-04-04T16:08:04 optimize loop (#307)
