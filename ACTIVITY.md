@@ -312,3 +312,4 @@
 - 2026-04-04T16:34:20 fix flaky test (#310)
 - 2026-04-04T17:03:13 clean up config (#311)
 - 2026-04-04T17:21:37 clean up config (#312)
+- 2026-04-04T17:30:00 add example (#313)
