@@ -278,3 +278,4 @@
 - 2026-04-03T22:49:24 refactor parser (#276)
 - 2026-04-03T22:50:28 tidy imports (#277)
 - 2026-04-03T22:55:56 optimize loop (#278)
+- 2026-04-04T09:42:41 improve naming (#279)
