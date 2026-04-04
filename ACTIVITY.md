@@ -335,3 +335,4 @@
 - 2026-04-04T22:15:26 update config schema (#333)
 - 2026-04-04T22:19:32 harden input validation (#334)
 - 2026-04-04T22:27:36 rename helpers (#335)
+- 2026-04-04T22:46:42 speed up cache (#336)
