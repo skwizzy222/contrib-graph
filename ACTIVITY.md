@@ -333,3 +333,4 @@
 - 2026-04-04T21:15:09 fix edge case in lexer (#331)
 - 2026-04-04T21:46:11 optimize loop (#332)
 - 2026-04-04T22:15:26 update config schema (#333)
+- 2026-04-04T22:19:32 harden input validation (#334)
