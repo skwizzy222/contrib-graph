@@ -310,3 +310,4 @@
 - 2026-04-04T16:13:50 improve naming (#308)
 - 2026-04-04T16:23:21 fix flaky test (#309)
 - 2026-04-04T16:34:20 fix flaky test (#310)
+- 2026-04-04T17:03:13 clean up config (#311)
