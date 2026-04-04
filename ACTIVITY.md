@@ -293,3 +293,4 @@
 - 2026-04-04T12:11:25 remove dead code (#291)
 - 2026-04-04T12:14:51 add example (#292)
 - 2026-04-04T12:29:59 update docs (#293)
+- 2026-04-04T12:40:23 clean up config (#294)
