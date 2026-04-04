@@ -308,3 +308,4 @@
 - 2026-04-04T16:05:45 update config schema (#306)
 - 2026-04-04T16:08:04 optimize loop (#307)
 - 2026-04-04T16:13:50 improve naming (#308)
+- 2026-04-04T16:23:21 fix flaky test (#309)
