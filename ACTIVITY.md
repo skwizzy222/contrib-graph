@@ -297,3 +297,4 @@
 - 2026-04-04T12:51:39 add CI check (#295)
 - 2026-04-04T12:52:35 add CI check (#296)
 - 2026-04-04T12:54:53 extract helper (#297)
+- 2026-04-04T13:12:16 update config schema (#298)
