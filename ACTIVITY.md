@@ -304,3 +304,4 @@
 - 2026-04-04T14:49:16 remove dead code (#302)
 - 2026-04-04T14:57:53 speed up cache (#303)
 - 2026-04-04T15:42:20 improve error messages (#304)
+- 2026-04-04T15:44:11 handle empty input (#305)
