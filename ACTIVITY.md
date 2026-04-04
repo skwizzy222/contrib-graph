@@ -329,3 +329,4 @@
 - 2026-04-04T20:47:53 remove dead code (#327)
 - 2026-04-04T20:56:49 small cleanup (#328)
 - 2026-04-04T20:58:11 harden input validation (#329)
+- 2026-04-04T21:12:19 add example (#330)
