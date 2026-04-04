@@ -280,3 +280,4 @@
 - 2026-04-03T22:55:56 optimize loop (#278)
 - 2026-04-04T09:42:41 improve naming (#279)
 - 2026-04-04T10:06:47 extract helper (#280)
+- 2026-04-04T10:10:44 optimize loop (#281)
