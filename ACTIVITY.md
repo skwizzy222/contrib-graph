@@ -322,3 +322,4 @@
 - 2026-04-04T19:33:39 add logging (#320)
 - 2026-04-04T19:37:48 clean up config (#321)
 - 2026-04-04T19:39:53 harden input validation (#322)
+- 2026-04-04T20:04:22 fix typo (#323)
