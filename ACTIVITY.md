@@ -320,3 +320,4 @@
 - 2026-04-04T19:08:54 rename helpers (#318)
 - 2026-04-04T19:32:24 update config schema (#319)
 - 2026-04-04T19:33:39 add logging (#320)
+- 2026-04-04T19:37:48 clean up config (#321)
