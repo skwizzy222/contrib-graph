@@ -331,3 +331,4 @@
 - 2026-04-04T20:58:11 harden input validation (#329)
 - 2026-04-04T21:12:19 add example (#330)
 - 2026-04-04T21:15:09 fix edge case in lexer (#331)
+- 2026-04-04T21:46:11 optimize loop (#332)
