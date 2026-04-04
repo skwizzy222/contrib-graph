@@ -326,3 +326,4 @@
 - 2026-04-04T20:04:51 update docs (#324)
 - 2026-04-04T20:32:00 speed up cache (#325)
 - 2026-04-04T20:34:59 bump dependencies (#326)
+- 2026-04-04T20:47:53 remove dead code (#327)
