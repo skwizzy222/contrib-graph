@@ -286,3 +286,4 @@
 - 2026-04-04T10:43:00 tidy imports (#284)
 - 2026-04-04T10:56:39 clean up config (#285)
 - 2026-04-04T11:20:18 polish README (#286)
+- 2026-04-04T11:44:20 improve naming (#287)
