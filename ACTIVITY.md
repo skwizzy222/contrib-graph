@@ -377,3 +377,4 @@
 - 2026-04-05T17:25:16 simplify branch logic (#375)
 - 2026-04-05T17:27:13 minor fixes (#376)
 - 2026-04-05T17:47:21 refactor parser (#377)
+- 2026-04-05T17:47:27 simplify branch logic (#378)
