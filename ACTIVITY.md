@@ -393,3 +393,4 @@
 - 2026-04-05T20:30:49 add logging (#391)
 - 2026-04-05T20:35:01 add CI check (#392)
 - 2026-04-05T20:38:07 improve naming (#393)
+- 2026-04-05T20:39:48 simplify branch logic (#394)
