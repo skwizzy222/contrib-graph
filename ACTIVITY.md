@@ -399,3 +399,4 @@
 - 2026-04-05T20:56:14 clean up config (#397)
 - 2026-04-05T21:07:29 fix flaky test (#398)
 - 2026-04-05T21:32:58 speed up cache (#399)
+- 2026-04-05T21:53:38 harden input validation (#400)
