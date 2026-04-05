@@ -395,3 +395,4 @@
 - 2026-04-05T20:38:07 improve naming (#393)
 - 2026-04-05T20:39:48 simplify branch logic (#394)
 - 2026-04-05T20:42:18 add example (#395)
+- 2026-04-05T20:48:16 update config schema (#396)
