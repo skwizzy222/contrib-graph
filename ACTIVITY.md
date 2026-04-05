@@ -363,3 +363,4 @@
 - 2026-04-05T14:09:44 refactor parser (#361)
 - 2026-04-05T14:12:01 add tests (#362)
 - 2026-04-05T14:36:59 handle empty input (#363)
+- 2026-04-05T15:07:43 remove dead code (#364)
