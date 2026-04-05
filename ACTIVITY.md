@@ -348,3 +348,4 @@
 - 2026-04-05T10:32:51 minor fixes (#346)
 - 2026-04-05T10:33:53 add CI check (#347)
 - 2026-04-05T10:57:38 improve error messages (#348)
+- 2026-04-05T11:09:53 clean up config (#349)
