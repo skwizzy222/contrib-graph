@@ -350,3 +350,4 @@
 - 2026-04-05T10:57:38 improve error messages (#348)
 - 2026-04-05T11:09:53 clean up config (#349)
 - 2026-04-05T11:28:32 handle empty input (#350)
+- 2026-04-05T11:31:53 small cleanup (#351)
