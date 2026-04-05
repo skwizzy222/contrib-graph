@@ -359,3 +359,4 @@
 - 2026-04-05T13:13:26 optimize loop (#357)
 - 2026-04-05T13:18:28 fix flaky test (#358)
 - 2026-04-05T13:54:33 add example (#359)
+- 2026-04-05T13:57:48 tweak defaults (#360)
