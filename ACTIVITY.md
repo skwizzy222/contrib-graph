@@ -406,3 +406,4 @@
 - 2026-04-05T22:15:25 minor fixes (#404)
 - 2026-04-05T22:31:20 small cleanup (#405)
 - 2026-04-05T22:36:53 update docs (#406)
+- 2026-04-05T22:39:22 improve error messages (#407)
