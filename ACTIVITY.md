@@ -404,3 +404,4 @@
 - 2026-04-05T22:08:27 update config schema (#402)
 - 2026-04-05T22:14:12 tidy imports (#403)
 - 2026-04-05T22:15:25 minor fixes (#404)
+- 2026-04-05T22:31:20 small cleanup (#405)
