@@ -351,3 +351,4 @@
 - 2026-04-05T11:09:53 clean up config (#349)
 - 2026-04-05T11:28:32 handle empty input (#350)
 - 2026-04-05T11:31:53 small cleanup (#351)
+- 2026-04-05T11:33:25 add CI check (#352)
