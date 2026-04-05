@@ -362,3 +362,4 @@
 - 2026-04-05T13:57:48 tweak defaults (#360)
 - 2026-04-05T14:09:44 refactor parser (#361)
 - 2026-04-05T14:12:01 add tests (#362)
+- 2026-04-05T14:36:59 handle empty input (#363)
