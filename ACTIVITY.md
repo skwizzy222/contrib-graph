@@ -397,3 +397,4 @@
 - 2026-04-05T20:42:18 add example (#395)
 - 2026-04-05T20:48:16 update config schema (#396)
 - 2026-04-05T20:56:14 clean up config (#397)
+- 2026-04-05T21:07:29 fix flaky test (#398)
