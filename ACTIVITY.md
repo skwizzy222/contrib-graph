@@ -345,3 +345,4 @@
 - 2026-04-05T10:01:43 update docs (#343)
 - 2026-04-05T10:27:03 extract helper (#344)
 - 2026-04-05T10:31:52 refactor parser (#345)
+- 2026-04-05T10:32:51 minor fixes (#346)
