@@ -403,3 +403,4 @@
 - 2026-04-05T21:59:02 polish README (#401)
 - 2026-04-05T22:08:27 update config schema (#402)
 - 2026-04-05T22:14:12 tidy imports (#403)
+- 2026-04-05T22:15:25 minor fixes (#404)
