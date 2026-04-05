@@ -340,3 +340,4 @@
 - 2026-04-05T09:16:34 add CI check (#338)
 - 2026-04-05T09:20:28 improve error messages (#339)
 - 2026-04-05T09:22:04 rename helpers (#340)
+- 2026-04-05T09:22:25 add example (#341)
