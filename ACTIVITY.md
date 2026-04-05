@@ -365,3 +365,4 @@
 - 2026-04-05T14:36:59 handle empty input (#363)
 - 2026-04-05T15:07:43 remove dead code (#364)
 - 2026-04-05T15:49:44 handle empty input (#365)
+- 2026-04-05T16:05:30 optimize loop (#366)
