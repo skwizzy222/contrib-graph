@@ -373,3 +373,4 @@
 - 2026-04-05T16:20:02 tidy imports (#371)
 - 2026-04-05T17:04:22 small cleanup (#372)
 - 2026-04-05T17:17:28 small cleanup (#373)
+- 2026-04-05T17:20:25 improve naming (#374)
