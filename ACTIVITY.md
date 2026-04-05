@@ -379,3 +379,4 @@
 - 2026-04-05T17:47:21 refactor parser (#377)
 - 2026-04-05T17:47:27 simplify branch logic (#378)
 - 2026-04-05T18:22:27 fix edge case in lexer (#379)
+- 2026-04-05T18:31:57 minor fixes (#380)
