@@ -401,3 +401,4 @@
 - 2026-04-05T21:32:58 speed up cache (#399)
 - 2026-04-05T21:53:38 harden input validation (#400)
 - 2026-04-05T21:59:02 polish README (#401)
+- 2026-04-05T22:08:27 update config schema (#402)
