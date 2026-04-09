@@ -427,3 +427,4 @@
 - 2026-04-09T12:07:47 add CI check (#425)
 - 2026-04-09T12:13:27 add logging (#426)
 - 2026-04-09T12:13:54 refactor parser (#427)
+- 2026-04-09T12:39:05 remove dead code (#428)
