@@ -483,3 +483,4 @@
 - 2026-04-09T21:47:26 update docs (#481)
 - 2026-04-09T22:04:48 add tests (#482)
 - 2026-04-09T22:11:38 fix edge case in lexer (#483)
+- 2026-04-09T22:17:15 clean up config (#484)
