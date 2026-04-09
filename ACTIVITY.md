@@ -461,3 +461,4 @@
 - 2026-04-09T18:29:09 refactor parser (#459)
 - 2026-04-09T18:32:10 fix edge case in lexer (#460)
 - 2026-04-09T18:37:27 split module (#461)
+- 2026-04-09T18:44:36 extract helper (#462)
