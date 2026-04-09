@@ -429,3 +429,4 @@
 - 2026-04-09T12:13:54 refactor parser (#427)
 - 2026-04-09T12:39:05 remove dead code (#428)
 - 2026-04-09T12:54:07 add tests (#429)
+- 2026-04-09T12:58:28 improve naming (#430)
