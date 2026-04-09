@@ -450,3 +450,4 @@
 - 2026-04-09T15:56:51 simplify branch logic (#448)
 - 2026-04-09T15:57:40 add example (#449)
 - 2026-04-09T16:35:55 add tests (#450)
+- 2026-04-09T16:37:23 add CI check (#451)
