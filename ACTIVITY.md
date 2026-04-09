@@ -477,3 +477,4 @@
 - 2026-04-09T21:00:34 harden input validation (#475)
 - 2026-04-09T21:19:37 tweak defaults (#476)
 - 2026-04-09T21:38:51 add logging (#477)
+- 2026-04-09T21:40:50 add CI check (#478)
