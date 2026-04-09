@@ -433,3 +433,4 @@
 - 2026-04-09T13:08:00 add CI check (#431)
 - 2026-04-09T13:10:57 fix edge case in lexer (#432)
 - 2026-04-09T13:21:00 add example (#433)
+- 2026-04-09T13:33:29 update docs (#434)
