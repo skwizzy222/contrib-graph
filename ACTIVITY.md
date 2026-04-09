@@ -475,3 +475,4 @@
 - 2026-04-09T20:39:32 fix flaky test (#473)
 - 2026-04-09T20:49:28 fix flaky test (#474)
 - 2026-04-09T21:00:34 harden input validation (#475)
+- 2026-04-09T21:19:37 tweak defaults (#476)
