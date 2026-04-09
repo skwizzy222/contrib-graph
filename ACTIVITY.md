@@ -410,3 +410,4 @@
 - 2026-04-05T22:45:07 fix typo (#408)
 - 2026-04-05T22:45:36 small cleanup (#409)
 - 2026-04-05T22:49:56 speed up cache (#410)
+- 2026-04-09T09:02:39 simplify branch logic (#411)
