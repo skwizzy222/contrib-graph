@@ -422,3 +422,4 @@
 - 2026-04-09T11:13:47 simplify branch logic (#420)
 - 2026-04-09T11:31:05 update docs (#421)
 - 2026-04-09T11:40:11 fix flaky test (#422)
+- 2026-04-09T11:57:31 add logging (#423)
