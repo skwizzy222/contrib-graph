@@ -451,3 +451,4 @@
 - 2026-04-09T15:57:40 add example (#449)
 - 2026-04-09T16:35:55 add tests (#450)
 - 2026-04-09T16:37:23 add CI check (#451)
+- 2026-04-09T16:41:10 harden input validation (#452)
