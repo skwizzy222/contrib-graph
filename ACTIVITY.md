@@ -441,3 +441,4 @@
 - 2026-04-09T14:48:19 improve error messages (#439)
 - 2026-04-09T14:56:00 fix flaky test (#440)
 - 2026-04-09T14:56:02 tidy imports (#441)
+- 2026-04-09T15:24:31 fix typo (#442)
