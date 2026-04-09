@@ -420,3 +420,4 @@
 - 2026-04-09T10:19:36 update docs (#418)
 - 2026-04-09T10:27:49 bump dependencies (#419)
 - 2026-04-09T11:13:47 simplify branch logic (#420)
+- 2026-04-09T11:31:05 update docs (#421)
