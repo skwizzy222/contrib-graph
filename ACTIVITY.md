@@ -447,3 +447,4 @@
 - 2026-04-09T15:32:35 speed up cache (#445)
 - 2026-04-09T15:39:29 add tests (#446)
 - 2026-04-09T15:55:10 harden input validation (#447)
+- 2026-04-09T15:56:51 simplify branch logic (#448)
