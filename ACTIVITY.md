@@ -436,3 +436,4 @@
 - 2026-04-09T13:33:29 update docs (#434)
 - 2026-04-09T13:42:15 add logging (#435)
 - 2026-04-09T13:42:26 add logging (#436)
+- 2026-04-09T13:46:01 harden input validation (#437)
