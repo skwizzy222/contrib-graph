@@ -437,3 +437,4 @@
 - 2026-04-09T13:42:15 add logging (#435)
 - 2026-04-09T13:42:26 add logging (#436)
 - 2026-04-09T13:46:01 harden input validation (#437)
+- 2026-04-09T14:10:28 remove dead code (#438)
