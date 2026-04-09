@@ -418,3 +418,4 @@
 - 2026-04-09T09:53:59 fix flaky test (#416)
 - 2026-04-09T10:13:47 polish README (#417)
 - 2026-04-09T10:19:36 update docs (#418)
+- 2026-04-09T10:27:49 bump dependencies (#419)
