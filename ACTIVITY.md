@@ -431,3 +431,4 @@
 - 2026-04-09T12:54:07 add tests (#429)
 - 2026-04-09T12:58:28 improve naming (#430)
 - 2026-04-09T13:08:00 add CI check (#431)
+- 2026-04-09T13:10:57 fix edge case in lexer (#432)
