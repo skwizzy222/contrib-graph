@@ -539,3 +539,4 @@
 - 2026-04-11T19:15:49 fix typo (#537)
 - 2026-04-11T19:44:41 add logging (#538)
 - 2026-04-11T19:50:26 harden input validation (#539)
+- 2026-04-11T19:53:49 harden input validation (#540)
