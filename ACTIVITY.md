@@ -524,3 +524,4 @@
 - 2026-04-11T16:18:40 add logging (#522)
 - 2026-04-11T16:21:16 rename helpers (#523)
 - 2026-04-11T16:31:04 small cleanup (#524)
+- 2026-04-11T16:31:07 clean up config (#525)
