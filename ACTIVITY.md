@@ -510,3 +510,4 @@
 - 2026-04-11T12:58:22 refactor parser (#508)
 - 2026-04-11T13:23:42 refactor parser (#509)
 - 2026-04-11T13:51:25 handle empty input (#510)
+- 2026-04-11T13:52:56 clean up config (#511)
