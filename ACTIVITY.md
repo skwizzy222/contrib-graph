@@ -506,3 +506,4 @@
 - 2026-04-11T12:21:52 speed up cache (#504)
 - 2026-04-11T12:24:10 add logging (#505)
 - 2026-04-11T12:30:47 rename helpers (#506)
+- 2026-04-11T12:51:01 optimize loop (#507)
