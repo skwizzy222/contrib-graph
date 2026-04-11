@@ -502,3 +502,4 @@
 - 2026-04-11T12:02:47 minor fixes (#500)
 - 2026-04-11T12:14:19 add example (#501)
 - 2026-04-11T12:15:38 harden input validation (#502)
+- 2026-04-11T12:15:48 update config schema (#503)
