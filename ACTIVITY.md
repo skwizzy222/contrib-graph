@@ -518,3 +518,4 @@
 - 2026-04-11T15:40:02 harden input validation (#516)
 - 2026-04-11T15:40:26 tweak defaults (#517)
 - 2026-04-11T15:41:33 handle empty input (#518)
+- 2026-04-11T15:51:13 handle empty input (#519)
