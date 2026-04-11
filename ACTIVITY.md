@@ -504,3 +504,4 @@
 - 2026-04-11T12:15:38 harden input validation (#502)
 - 2026-04-11T12:15:48 update config schema (#503)
 - 2026-04-11T12:21:52 speed up cache (#504)
+- 2026-04-11T12:24:10 add logging (#505)
