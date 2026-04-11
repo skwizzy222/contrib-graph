@@ -533,3 +533,4 @@
 - 2026-04-11T17:55:25 extract helper (#531)
 - 2026-04-11T18:08:29 add tests (#532)
 - 2026-04-11T18:10:33 handle empty input (#533)
+- 2026-04-11T18:14:57 optimize loop (#534)
