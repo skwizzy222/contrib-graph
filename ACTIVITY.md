@@ -547,3 +547,4 @@
 - 2026-04-11T21:04:26 handle empty input (#545)
 - 2026-04-11T21:32:51 simplify branch logic (#546)
 - 2026-04-11T21:37:44 polish README (#547)
+- 2026-04-11T22:12:08 speed up cache (#548)
