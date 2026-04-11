@@ -541,3 +541,4 @@
 - 2026-04-11T19:50:26 harden input validation (#539)
 - 2026-04-11T19:53:49 harden input validation (#540)
 - 2026-04-11T20:02:50 add logging (#541)
+- 2026-04-11T20:21:58 simplify branch logic (#542)
