@@ -521,3 +521,4 @@
 - 2026-04-11T15:51:13 handle empty input (#519)
 - 2026-04-11T15:54:24 speed up cache (#520)
 - 2026-04-11T16:10:45 harden input validation (#521)
+- 2026-04-11T16:18:40 add logging (#522)
