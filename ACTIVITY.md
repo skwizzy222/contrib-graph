@@ -496,3 +496,4 @@
 - 2026-04-11T10:35:19 polish README (#494)
 - 2026-04-11T10:54:41 add example (#495)
 - 2026-04-11T11:03:36 extract helper (#496)
+- 2026-04-11T11:10:45 harden input validation (#497)
