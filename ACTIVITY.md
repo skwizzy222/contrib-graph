@@ -549,3 +549,4 @@
 - 2026-04-11T21:37:44 polish README (#547)
 - 2026-04-11T22:12:08 speed up cache (#548)
 - 2026-04-11T22:35:19 bump dependencies (#549)
+- 2026-04-11T22:37:42 update docs (#550)
