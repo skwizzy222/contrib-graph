@@ -501,3 +501,4 @@
 - 2026-04-11T12:01:11 rename helpers (#499)
 - 2026-04-11T12:02:47 minor fixes (#500)
 - 2026-04-11T12:14:19 add example (#501)
+- 2026-04-11T12:15:38 harden input validation (#502)
