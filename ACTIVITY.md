@@ -545,3 +545,4 @@
 - 2026-04-11T20:31:51 polish README (#543)
 - 2026-04-11T20:32:11 clean up config (#544)
 - 2026-04-11T21:04:26 handle empty input (#545)
+- 2026-04-11T21:32:51 simplify branch logic (#546)
