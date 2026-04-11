@@ -499,3 +499,4 @@
 - 2026-04-11T11:10:45 harden input validation (#497)
 - 2026-04-11T11:54:49 harden input validation (#498)
 - 2026-04-11T12:01:11 rename helpers (#499)
+- 2026-04-11T12:02:47 minor fixes (#500)
