@@ -529,3 +529,4 @@
 - 2026-04-11T16:42:29 tweak defaults (#527)
 - 2026-04-11T17:17:25 polish README (#528)
 - 2026-04-11T17:42:09 extract helper (#529)
+- 2026-04-11T17:49:02 remove dead code (#530)
