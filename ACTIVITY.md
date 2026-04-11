@@ -493,3 +493,4 @@
 - 2026-04-11T10:16:54 add example (#491)
 - 2026-04-11T10:21:02 update config schema (#492)
 - 2026-04-11T10:32:31 add tests (#493)
+- 2026-04-11T10:35:19 polish README (#494)
