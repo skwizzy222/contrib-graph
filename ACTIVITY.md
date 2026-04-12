@@ -605,3 +605,4 @@
 - 2026-04-12T18:11:13 minor fixes (#603)
 - 2026-04-12T18:26:32 extract helper (#604)
 - 2026-04-12T19:31:37 fix typo (#605)
+- 2026-04-12T19:35:08 fix edge case in lexer (#606)
