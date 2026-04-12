@@ -620,3 +620,4 @@
 - 2026-04-12T21:19:58 minor fixes (#618)
 - 2026-04-12T21:27:07 tidy imports (#619)
 - 2026-04-12T21:33:10 small cleanup (#620)
+- 2026-04-12T21:38:57 update config schema (#621)
