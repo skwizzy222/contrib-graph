@@ -553,3 +553,4 @@
 - 2026-04-12T09:05:16 fix flaky test (#551)
 - 2026-04-12T09:10:11 bump dependencies (#552)
 - 2026-04-12T09:27:55 simplify branch logic (#553)
+- 2026-04-12T09:29:50 tweak defaults (#554)
