@@ -562,3 +562,4 @@
 - 2026-04-12T11:08:57 fix typo (#560)
 - 2026-04-12T11:30:45 small cleanup (#561)
 - 2026-04-12T11:31:07 tweak defaults (#562)
+- 2026-04-12T11:35:41 fix edge case in lexer (#563)
