@@ -570,3 +570,4 @@
 - 2026-04-12T12:37:50 add example (#568)
 - 2026-04-12T12:39:39 fix edge case in lexer (#569)
 - 2026-04-12T12:40:45 remove dead code (#570)
+- 2026-04-12T12:45:00 remove dead code (#571)
