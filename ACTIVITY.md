@@ -558,3 +558,4 @@
 - 2026-04-12T10:22:25 bump dependencies (#556)
 - 2026-04-12T10:37:57 optimize loop (#557)
 - 2026-04-12T10:38:48 fix typo (#558)
+- 2026-04-12T10:49:53 improve naming (#559)
