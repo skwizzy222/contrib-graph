@@ -614,3 +614,4 @@
 - 2026-04-12T20:33:10 optimize loop (#612)
 - 2026-04-12T20:46:32 add CI check (#613)
 - 2026-04-12T20:54:45 add tests (#614)
+- 2026-04-12T21:02:42 simplify branch logic (#615)
