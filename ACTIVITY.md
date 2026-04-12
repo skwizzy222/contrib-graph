@@ -579,3 +579,4 @@
 - 2026-04-12T13:50:37 fix flaky test (#577)
 - 2026-04-12T13:53:14 tidy imports (#578)
 - 2026-04-12T14:02:14 speed up cache (#579)
+- 2026-04-12T14:33:20 extract helper (#580)
