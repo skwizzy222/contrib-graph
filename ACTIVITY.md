@@ -556,3 +556,4 @@
 - 2026-04-12T09:29:50 tweak defaults (#554)
 - 2026-04-12T10:04:01 simplify branch logic (#555)
 - 2026-04-12T10:22:25 bump dependencies (#556)
+- 2026-04-12T10:37:57 optimize loop (#557)
