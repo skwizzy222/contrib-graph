@@ -572,3 +572,4 @@
 - 2026-04-12T12:40:45 remove dead code (#570)
 - 2026-04-12T12:45:00 remove dead code (#571)
 - 2026-04-12T13:01:23 update docs (#572)
+- 2026-04-12T13:25:50 simplify branch logic (#573)
