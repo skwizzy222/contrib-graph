@@ -592,3 +592,4 @@
 - 2026-04-12T16:02:21 minor fixes (#590)
 - 2026-04-12T16:02:44 improve naming (#591)
 - 2026-04-12T16:18:20 rename helpers (#592)
+- 2026-04-12T16:23:55 handle empty input (#593)
