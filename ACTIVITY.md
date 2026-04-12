@@ -583,3 +583,4 @@
 - 2026-04-12T14:59:17 improve naming (#581)
 - 2026-04-12T15:08:30 tidy imports (#582)
 - 2026-04-12T15:12:03 add CI check (#583)
+- 2026-04-12T15:36:56 handle empty input (#584)
