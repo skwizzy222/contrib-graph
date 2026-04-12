@@ -603,3 +603,4 @@
 - 2026-04-12T17:54:22 optimize loop (#601)
 - 2026-04-12T18:10:22 optimize loop (#602)
 - 2026-04-12T18:11:13 minor fixes (#603)
+- 2026-04-12T18:26:32 extract helper (#604)
