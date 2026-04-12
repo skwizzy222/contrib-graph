@@ -568,3 +568,4 @@
 - 2026-04-12T12:07:32 tidy imports (#566)
 - 2026-04-12T12:36:55 fix flaky test (#567)
 - 2026-04-12T12:37:50 add example (#568)
+- 2026-04-12T12:39:39 fix edge case in lexer (#569)
