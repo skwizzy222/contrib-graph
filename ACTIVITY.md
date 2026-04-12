@@ -588,3 +588,4 @@
 - 2026-04-12T15:39:22 fix flaky test (#586)
 - 2026-04-12T15:42:43 refactor parser (#587)
 - 2026-04-12T15:45:50 small cleanup (#588)
+- 2026-04-12T15:52:38 update docs (#589)
