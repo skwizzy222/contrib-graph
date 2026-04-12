@@ -616,3 +616,4 @@
 - 2026-04-12T20:54:45 add tests (#614)
 - 2026-04-12T21:02:42 simplify branch logic (#615)
 - 2026-04-12T21:09:46 fix edge case in lexer (#616)
+- 2026-04-12T21:18:17 improve error messages (#617)
