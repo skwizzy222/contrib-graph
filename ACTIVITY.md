@@ -625,3 +625,4 @@
 - 2026-04-12T21:48:27 fix edge case in lexer (#623)
 - 2026-04-12T21:57:12 extract helper (#624)
 - 2026-04-12T21:58:27 add example (#625)
+- 2026-04-12T22:02:55 add CI check (#626)
