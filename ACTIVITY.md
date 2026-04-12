@@ -606,3 +606,4 @@
 - 2026-04-12T18:26:32 extract helper (#604)
 - 2026-04-12T19:31:37 fix typo (#605)
 - 2026-04-12T19:35:08 fix edge case in lexer (#606)
+- 2026-04-12T19:36:57 speed up cache (#607)
