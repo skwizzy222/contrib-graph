@@ -597,3 +597,4 @@
 - 2026-04-12T16:32:17 bump dependencies (#595)
 - 2026-04-12T17:15:17 add CI check (#596)
 - 2026-04-12T17:40:59 harden input validation (#597)
+- 2026-04-12T17:42:23 polish README (#598)
