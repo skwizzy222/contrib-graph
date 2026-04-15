@@ -687,3 +687,4 @@
 - 2026-04-15T21:10:43 optimize loop (#685)
 - 2026-04-15T21:11:28 fix flaky test (#686)
 - 2026-04-15T21:23:03 extract helper (#687)
+- 2026-04-15T21:24:51 update config schema (#688)
