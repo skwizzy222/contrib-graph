@@ -645,3 +645,4 @@
 - 2026-04-15T10:38:45 tweak defaults (#643)
 - 2026-04-15T10:43:21 remove dead code (#644)
 - 2026-04-15T10:45:20 update config schema (#645)
+- 2026-04-15T10:53:23 tweak defaults (#646)
