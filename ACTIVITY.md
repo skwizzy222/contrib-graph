@@ -636,3 +636,4 @@
 - 2026-04-15T09:43:42 update docs (#634)
 - 2026-04-15T09:47:25 extract helper (#635)
 - 2026-04-15T09:47:52 remove dead code (#636)
+- 2026-04-15T09:59:10 add logging (#637)
