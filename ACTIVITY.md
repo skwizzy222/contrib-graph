@@ -673,3 +673,4 @@
 - 2026-04-15T18:38:01 harden input validation (#671)
 - 2026-04-15T18:53:13 tidy imports (#672)
 - 2026-04-15T18:53:56 update config schema (#673)
+- 2026-04-15T19:01:09 refactor parser (#674)
