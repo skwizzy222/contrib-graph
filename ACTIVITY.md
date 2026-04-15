@@ -633,3 +633,4 @@
 - 2026-04-15T09:27:28 optimize loop (#631)
 - 2026-04-15T09:33:24 handle empty input (#632)
 - 2026-04-15T09:38:24 improve error messages (#633)
+- 2026-04-15T09:43:42 update docs (#634)
