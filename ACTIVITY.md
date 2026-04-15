@@ -691,3 +691,4 @@
 - 2026-04-15T21:45:21 improve naming (#689)
 - 2026-04-15T22:04:34 minor fixes (#690)
 - 2026-04-15T22:07:21 split module (#691)
+- 2026-04-15T22:27:54 clean up config (#692)
