@@ -663,3 +663,4 @@
 - 2026-04-15T14:40:48 clean up config (#661)
 - 2026-04-15T14:57:00 improve error messages (#662)
 - 2026-04-15T15:05:18 refactor parser (#663)
+- 2026-04-15T15:21:07 optimize loop (#664)
