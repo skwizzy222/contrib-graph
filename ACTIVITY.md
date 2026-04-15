@@ -647,3 +647,4 @@
 - 2026-04-15T10:45:20 update config schema (#645)
 - 2026-04-15T10:53:23 tweak defaults (#646)
 - 2026-04-15T11:29:32 small cleanup (#647)
+- 2026-04-15T12:34:35 update docs (#648)
