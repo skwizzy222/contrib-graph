@@ -669,3 +669,4 @@
 - 2026-04-15T15:48:58 tweak defaults (#667)
 - 2026-04-15T17:35:12 simplify branch logic (#668)
 - 2026-04-15T17:53:51 minor fixes (#669)
+- 2026-04-15T18:06:45 add tests (#670)
