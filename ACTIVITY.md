@@ -641,3 +641,4 @@
 - 2026-04-15T10:02:37 update config schema (#639)
 - 2026-04-15T10:19:09 speed up cache (#640)
 - 2026-04-15T10:32:40 add example (#641)
+- 2026-04-15T10:34:55 update docs (#642)
