@@ -654,3 +654,4 @@
 - 2026-04-15T13:02:51 extract helper (#652)
 - 2026-04-15T13:16:28 fix edge case in lexer (#653)
 - 2026-04-15T13:16:43 harden input validation (#654)
+- 2026-04-15T13:40:37 add tests (#655)
