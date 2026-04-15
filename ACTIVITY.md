@@ -689,3 +689,4 @@
 - 2026-04-15T21:23:03 extract helper (#687)
 - 2026-04-15T21:24:51 update config schema (#688)
 - 2026-04-15T21:45:21 improve naming (#689)
+- 2026-04-15T22:04:34 minor fixes (#690)
