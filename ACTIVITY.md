@@ -675,3 +675,4 @@
 - 2026-04-15T18:53:56 update config schema (#673)
 - 2026-04-15T19:01:09 refactor parser (#674)
 - 2026-04-15T19:43:06 update config schema (#675)
+- 2026-04-15T19:48:31 extract helper (#676)
