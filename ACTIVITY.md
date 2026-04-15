@@ -638,3 +638,4 @@
 - 2026-04-15T09:47:52 remove dead code (#636)
 - 2026-04-15T09:59:10 add logging (#637)
 - 2026-04-15T10:01:37 harden input validation (#638)
+- 2026-04-15T10:02:37 update config schema (#639)
