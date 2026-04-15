@@ -653,3 +653,4 @@
 - 2026-04-15T12:59:16 tweak defaults (#651)
 - 2026-04-15T13:02:51 extract helper (#652)
 - 2026-04-15T13:16:28 fix edge case in lexer (#653)
+- 2026-04-15T13:16:43 harden input validation (#654)
