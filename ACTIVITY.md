@@ -684,3 +684,4 @@
 - 2026-04-15T20:45:25 speed up cache (#682)
 - 2026-04-15T20:49:29 add CI check (#683)
 - 2026-04-15T20:52:51 tweak defaults (#684)
+- 2026-04-15T21:10:43 optimize loop (#685)
