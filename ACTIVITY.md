@@ -630,3 +630,4 @@
 - 2026-04-12T22:19:22 improve naming (#628)
 - 2026-04-12T22:34:26 add logging (#629)
 - 2026-04-15T09:10:46 speed up cache (#630)
+- 2026-04-15T09:27:28 optimize loop (#631)
