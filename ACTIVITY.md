@@ -650,3 +650,4 @@
 - 2026-04-15T12:34:35 update docs (#648)
 - 2026-04-15T12:52:21 harden input validation (#649)
 - 2026-04-15T12:57:11 extract helper (#650)
+- 2026-04-15T12:59:16 tweak defaults (#651)
