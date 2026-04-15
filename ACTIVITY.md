@@ -634,3 +634,4 @@
 - 2026-04-15T09:33:24 handle empty input (#632)
 - 2026-04-15T09:38:24 improve error messages (#633)
 - 2026-04-15T09:43:42 update docs (#634)
+- 2026-04-15T09:47:25 extract helper (#635)
