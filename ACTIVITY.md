@@ -643,3 +643,4 @@
 - 2026-04-15T10:32:40 add example (#641)
 - 2026-04-15T10:34:55 update docs (#642)
 - 2026-04-15T10:38:45 tweak defaults (#643)
+- 2026-04-15T10:43:21 remove dead code (#644)
