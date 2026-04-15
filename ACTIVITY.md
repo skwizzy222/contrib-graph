@@ -661,3 +661,4 @@
 - 2026-04-15T14:10:43 speed up cache (#659)
 - 2026-04-15T14:21:18 polish README (#660)
 - 2026-04-15T14:40:48 clean up config (#661)
+- 2026-04-15T14:57:00 improve error messages (#662)
