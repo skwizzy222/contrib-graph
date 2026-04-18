@@ -714,3 +714,4 @@
 - 2026-04-18T13:08:55 update config schema (#712)
 - 2026-04-18T13:17:30 remove dead code (#713)
 - 2026-04-18T13:25:46 speed up cache (#714)
+- 2026-04-18T13:40:32 update docs (#715)
