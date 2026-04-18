@@ -741,3 +741,4 @@
 - 2026-04-18T18:35:58 harden input validation (#739)
 - 2026-04-18T18:37:16 rename helpers (#740)
 - 2026-04-18T19:44:38 split module (#741)
+- 2026-04-18T19:45:09 minor fixes (#742)
