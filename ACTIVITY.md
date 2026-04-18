@@ -701,3 +701,4 @@
 - 2026-04-18T10:39:56 harden input validation (#699)
 - 2026-04-18T10:49:55 split module (#700)
 - 2026-04-18T11:04:32 tweak defaults (#701)
+- 2026-04-18T11:17:01 polish README (#702)
