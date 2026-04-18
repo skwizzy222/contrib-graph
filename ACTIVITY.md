@@ -726,3 +726,4 @@
 - 2026-04-18T15:42:50 tweak defaults (#724)
 - 2026-04-18T15:47:59 speed up cache (#725)
 - 2026-04-18T16:14:41 remove dead code (#726)
+- 2026-04-18T16:32:20 add logging (#727)
