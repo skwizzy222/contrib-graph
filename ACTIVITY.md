@@ -695,3 +695,4 @@
 - 2026-04-15T22:29:27 simplify branch logic (#693)
 - 2026-04-15T22:57:59 remove dead code (#694)
 - 2026-04-18T09:07:36 add tests (#695)
+- 2026-04-18T09:18:16 clean up config (#696)
