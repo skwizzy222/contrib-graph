@@ -722,3 +722,4 @@
 - 2026-04-18T14:49:16 fix typo (#720)
 - 2026-04-18T15:09:11 harden input validation (#721)
 - 2026-04-18T15:30:44 tidy imports (#722)
+- 2026-04-18T15:34:48 polish README (#723)
