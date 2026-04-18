@@ -706,3 +706,4 @@
 - 2026-04-18T11:30:44 add CI check (#704)
 - 2026-04-18T11:32:07 minor fixes (#705)
 - 2026-04-18T12:11:41 refactor parser (#706)
+- 2026-04-18T12:26:04 extract helper (#707)
