@@ -737,3 +737,4 @@
 - 2026-04-18T18:23:15 simplify branch logic (#735)
 - 2026-04-18T18:26:06 refactor parser (#736)
 - 2026-04-18T18:28:01 extract helper (#737)
+- 2026-04-18T18:35:22 tweak defaults (#738)
