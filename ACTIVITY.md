@@ -736,3 +736,4 @@
 - 2026-04-18T18:20:54 add logging (#734)
 - 2026-04-18T18:23:15 simplify branch logic (#735)
 - 2026-04-18T18:26:06 refactor parser (#736)
+- 2026-04-18T18:28:01 extract helper (#737)
