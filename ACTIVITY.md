@@ -752,3 +752,4 @@
 - 2026-04-18T21:27:44 improve error messages (#750)
 - 2026-04-18T21:39:51 add CI check (#751)
 - 2026-04-18T21:43:58 speed up cache (#752)
+- 2026-04-18T21:48:21 add CI check (#753)
