@@ -739,3 +739,4 @@
 - 2026-04-18T18:28:01 extract helper (#737)
 - 2026-04-18T18:35:22 tweak defaults (#738)
 - 2026-04-18T18:35:58 harden input validation (#739)
+- 2026-04-18T18:37:16 rename helpers (#740)
