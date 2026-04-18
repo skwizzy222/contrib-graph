@@ -699,3 +699,4 @@
 - 2026-04-18T09:21:24 add CI check (#697)
 - 2026-04-18T09:26:37 add example (#698)
 - 2026-04-18T10:39:56 harden input validation (#699)
+- 2026-04-18T10:49:55 split module (#700)
