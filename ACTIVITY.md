@@ -698,3 +698,4 @@
 - 2026-04-18T09:18:16 clean up config (#696)
 - 2026-04-18T09:21:24 add CI check (#697)
 - 2026-04-18T09:26:37 add example (#698)
+- 2026-04-18T10:39:56 harden input validation (#699)
