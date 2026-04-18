@@ -711,3 +711,4 @@
 - 2026-04-18T12:52:21 update docs (#709)
 - 2026-04-18T12:53:23 add example (#710)
 - 2026-04-18T12:56:32 fix edge case in lexer (#711)
+- 2026-04-18T13:08:55 update config schema (#712)
