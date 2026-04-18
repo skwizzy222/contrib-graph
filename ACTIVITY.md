@@ -755,3 +755,4 @@
 - 2026-04-18T21:48:21 add CI check (#753)
 - 2026-04-18T21:51:31 simplify branch logic (#754)
 - 2026-04-18T21:52:35 fix edge case in lexer (#755)
+- 2026-04-18T22:22:12 rename helpers (#756)
