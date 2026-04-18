@@ -723,3 +723,4 @@
 - 2026-04-18T15:09:11 harden input validation (#721)
 - 2026-04-18T15:30:44 tidy imports (#722)
 - 2026-04-18T15:34:48 polish README (#723)
+- 2026-04-18T15:42:50 tweak defaults (#724)
