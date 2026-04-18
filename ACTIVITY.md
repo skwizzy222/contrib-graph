@@ -717,3 +717,4 @@
 - 2026-04-18T13:40:32 update docs (#715)
 - 2026-04-18T13:45:00 update config schema (#716)
 - 2026-04-18T14:23:24 optimize loop (#717)
+- 2026-04-18T14:42:12 simplify branch logic (#718)
