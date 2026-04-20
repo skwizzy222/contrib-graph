@@ -818,3 +818,4 @@
 - 2026-04-20T20:54:34 add logging (#816)
 - 2026-04-20T21:12:52 fix flaky test (#817)
 - 2026-04-20T22:01:34 extract helper (#818)
+- 2026-04-20T22:04:31 optimize loop (#819)
