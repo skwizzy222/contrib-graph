@@ -793,3 +793,4 @@
 - 2026-04-20T16:12:36 update docs (#791)
 - 2026-04-20T17:03:15 minor fixes (#792)
 - 2026-04-20T17:10:43 optimize loop (#793)
+- 2026-04-20T17:11:08 improve error messages (#794)
