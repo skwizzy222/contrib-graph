@@ -767,3 +767,4 @@
 - 2026-04-20T10:49:13 refactor parser (#765)
 - 2026-04-20T11:03:22 speed up cache (#766)
 - 2026-04-20T11:03:43 clean up config (#767)
+- 2026-04-20T11:10:02 split module (#768)
