@@ -805,3 +805,4 @@
 - 2026-04-20T18:38:50 speed up cache (#803)
 - 2026-04-20T18:49:01 add CI check (#804)
 - 2026-04-20T18:56:13 tidy imports (#805)
+- 2026-04-20T19:04:32 improve error messages (#806)
