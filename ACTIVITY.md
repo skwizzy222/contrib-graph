@@ -783,3 +783,4 @@
 - 2026-04-20T14:56:09 add CI check (#781)
 - 2026-04-20T14:56:16 update config schema (#782)
 - 2026-04-20T15:01:53 refactor parser (#783)
+- 2026-04-20T15:15:39 improve naming (#784)
