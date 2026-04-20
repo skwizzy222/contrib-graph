@@ -768,3 +768,4 @@
 - 2026-04-20T11:03:22 speed up cache (#766)
 - 2026-04-20T11:03:43 clean up config (#767)
 - 2026-04-20T11:10:02 split module (#768)
+- 2026-04-20T11:14:46 update config schema (#769)
