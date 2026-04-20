@@ -761,3 +761,4 @@
 - 2026-04-20T09:31:06 clean up config (#759)
 - 2026-04-20T09:43:30 add example (#760)
 - 2026-04-20T10:04:22 update config schema (#761)
+- 2026-04-20T10:16:37 improve naming (#762)
