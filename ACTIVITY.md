@@ -802,3 +802,4 @@
 - 2026-04-20T17:45:59 harden input validation (#800)
 - 2026-04-20T18:00:36 minor fixes (#801)
 - 2026-04-20T18:20:47 add example (#802)
+- 2026-04-20T18:38:50 speed up cache (#803)
