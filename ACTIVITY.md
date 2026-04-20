@@ -785,3 +785,4 @@
 - 2026-04-20T15:01:53 refactor parser (#783)
 - 2026-04-20T15:15:39 improve naming (#784)
 - 2026-04-20T15:16:52 clean up config (#785)
+- 2026-04-20T15:29:09 remove dead code (#786)
