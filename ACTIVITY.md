@@ -814,3 +814,4 @@
 - 2026-04-20T19:55:17 minor fixes (#812)
 - 2026-04-20T20:02:10 refactor parser (#813)
 - 2026-04-20T20:11:44 remove dead code (#814)
+- 2026-04-20T20:39:53 handle empty input (#815)
