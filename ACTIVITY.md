@@ -801,3 +801,4 @@
 - 2026-04-20T17:43:38 rename helpers (#799)
 - 2026-04-20T17:45:59 harden input validation (#800)
 - 2026-04-20T18:00:36 minor fixes (#801)
+- 2026-04-20T18:20:47 add example (#802)
