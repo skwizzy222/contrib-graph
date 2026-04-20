@@ -796,3 +796,4 @@
 - 2026-04-20T17:11:08 improve error messages (#794)
 - 2026-04-20T17:19:46 tidy imports (#795)
 - 2026-04-20T17:31:13 add CI check (#796)
+- 2026-04-20T17:32:30 extract helper (#797)
