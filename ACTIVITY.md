@@ -821,3 +821,4 @@
 - 2026-04-20T22:04:31 optimize loop (#819)
 - 2026-04-20T22:18:17 fix typo (#820)
 - 2026-04-20T22:19:55 update config schema (#821)
+- 2026-04-20T22:48:33 tweak defaults (#822)
