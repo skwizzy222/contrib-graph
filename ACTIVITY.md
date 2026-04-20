@@ -786,3 +786,4 @@
 - 2026-04-20T15:15:39 improve naming (#784)
 - 2026-04-20T15:16:52 clean up config (#785)
 - 2026-04-20T15:29:09 remove dead code (#786)
+- 2026-04-20T15:42:53 harden input validation (#787)
