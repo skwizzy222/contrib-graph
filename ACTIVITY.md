@@ -765,3 +765,4 @@
 - 2026-04-20T10:23:51 refactor parser (#763)
 - 2026-04-20T10:33:13 add example (#764)
 - 2026-04-20T10:49:13 refactor parser (#765)
+- 2026-04-20T11:03:22 speed up cache (#766)
