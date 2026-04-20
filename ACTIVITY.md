@@ -770,3 +770,4 @@
 - 2026-04-20T11:10:02 split module (#768)
 - 2026-04-20T11:14:46 update config schema (#769)
 - 2026-04-20T11:44:24 tidy imports (#770)
+- 2026-04-20T11:50:47 improve naming (#771)
