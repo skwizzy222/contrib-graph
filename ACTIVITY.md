@@ -773,3 +773,4 @@
 - 2026-04-20T11:50:47 improve naming (#771)
 - 2026-04-20T11:52:26 tweak defaults (#772)
 - 2026-04-20T11:53:51 bump dependencies (#773)
+- 2026-04-20T12:57:56 remove dead code (#774)
