@@ -806,3 +806,4 @@
 - 2026-04-20T18:49:01 add CI check (#804)
 - 2026-04-20T18:56:13 tidy imports (#805)
 - 2026-04-20T19:04:32 improve error messages (#806)
+- 2026-04-20T19:14:17 update docs (#807)
