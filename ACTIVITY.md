@@ -758,3 +758,4 @@
 - 2026-04-18T22:22:12 rename helpers (#756)
 - 2026-04-18T22:32:47 update config schema (#757)
 - 2026-04-20T09:08:17 optimize loop (#758)
+- 2026-04-20T09:31:06 clean up config (#759)
