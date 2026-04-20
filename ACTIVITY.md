@@ -810,3 +810,4 @@
 - 2026-04-20T19:27:41 bump dependencies (#808)
 - 2026-04-20T19:31:08 fix edge case in lexer (#809)
 - 2026-04-20T19:33:59 handle empty input (#810)
+- 2026-04-20T19:43:22 improve naming (#811)
