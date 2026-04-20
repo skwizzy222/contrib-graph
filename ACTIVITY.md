@@ -776,3 +776,4 @@
 - 2026-04-20T12:57:56 remove dead code (#774)
 - 2026-04-20T13:34:44 remove dead code (#775)
 - 2026-04-20T14:03:34 remove dead code (#776)
+- 2026-04-20T14:26:53 simplify branch logic (#777)
