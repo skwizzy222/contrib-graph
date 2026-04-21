@@ -859,3 +859,4 @@
 - 2026-04-21T16:05:13 handle empty input (#857)
 - 2026-04-21T16:14:08 bump dependencies (#858)
 - 2026-04-21T16:39:09 improve error messages (#859)
+- 2026-04-21T16:42:16 split module (#860)
