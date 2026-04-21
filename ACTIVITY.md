@@ -839,3 +839,4 @@
 - 2026-04-21T12:06:17 extract helper (#837)
 - 2026-04-21T12:17:25 speed up cache (#838)
 - 2026-04-21T12:44:58 improve naming (#839)
+- 2026-04-21T13:05:30 remove dead code (#840)
