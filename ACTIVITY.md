@@ -876,3 +876,4 @@
 - 2026-04-21T19:58:15 tidy imports (#874)
 - 2026-04-21T20:01:24 fix edge case in lexer (#875)
 - 2026-04-21T20:09:54 update docs (#876)
+- 2026-04-21T20:22:51 refactor parser (#877)
