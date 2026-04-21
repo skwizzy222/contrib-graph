@@ -866,3 +866,4 @@
 - 2026-04-21T17:25:32 handle empty input (#864)
 - 2026-04-21T17:26:24 add CI check (#865)
 - 2026-04-21T17:32:35 speed up cache (#866)
+- 2026-04-21T17:46:45 extract helper (#867)
