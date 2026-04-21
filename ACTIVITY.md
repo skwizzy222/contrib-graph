@@ -880,3 +880,4 @@
 - 2026-04-21T20:25:03 handle empty input (#878)
 - 2026-04-21T20:42:15 simplify branch logic (#879)
 - 2026-04-21T21:02:28 extract helper (#880)
+- 2026-04-21T21:35:01 optimize loop (#881)
