@@ -856,3 +856,4 @@
 - 2026-04-21T15:35:32 simplify branch logic (#854)
 - 2026-04-21T15:57:43 fix edge case in lexer (#855)
 - 2026-04-21T16:01:51 minor fixes (#856)
+- 2026-04-21T16:05:13 handle empty input (#857)
