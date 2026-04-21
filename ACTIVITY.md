@@ -847,3 +847,4 @@
 - 2026-04-21T14:07:25 fix typo (#845)
 - 2026-04-21T14:39:01 tweak defaults (#846)
 - 2026-04-21T14:43:37 improve error messages (#847)
+- 2026-04-21T14:54:12 add tests (#848)
