@@ -875,3 +875,4 @@
 - 2026-04-21T19:36:15 extract helper (#873)
 - 2026-04-21T19:58:15 tidy imports (#874)
 - 2026-04-21T20:01:24 fix edge case in lexer (#875)
+- 2026-04-21T20:09:54 update docs (#876)
