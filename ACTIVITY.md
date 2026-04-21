@@ -868,3 +868,4 @@
 - 2026-04-21T17:32:35 speed up cache (#866)
 - 2026-04-21T17:46:45 extract helper (#867)
 - 2026-04-21T17:53:29 add tests (#868)
+- 2026-04-21T18:06:45 harden input validation (#869)
