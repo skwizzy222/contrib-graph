@@ -828,3 +828,4 @@
 - 2026-04-21T09:22:05 add example (#826)
 - 2026-04-21T09:36:43 fix flaky test (#827)
 - 2026-04-21T09:53:31 split module (#828)
+- 2026-04-21T10:37:01 bump dependencies (#829)
