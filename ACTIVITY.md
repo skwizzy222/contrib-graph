@@ -854,3 +854,4 @@
 - 2026-04-21T15:27:20 speed up cache (#852)
 - 2026-04-21T15:31:57 update config schema (#853)
 - 2026-04-21T15:35:32 simplify branch logic (#854)
+- 2026-04-21T15:57:43 fix edge case in lexer (#855)
