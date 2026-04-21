@@ -841,3 +841,4 @@
 - 2026-04-21T12:44:58 improve naming (#839)
 - 2026-04-21T13:05:30 remove dead code (#840)
 - 2026-04-21T13:31:09 split module (#841)
+- 2026-04-21T13:38:36 add logging (#842)
