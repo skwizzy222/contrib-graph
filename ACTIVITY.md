@@ -871,3 +871,4 @@
 - 2026-04-21T18:06:45 harden input validation (#869)
 - 2026-04-21T18:38:43 remove dead code (#870)
 - 2026-04-21T19:16:37 remove dead code (#871)
+- 2026-04-21T19:21:20 tweak defaults (#872)
