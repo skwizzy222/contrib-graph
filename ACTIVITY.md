@@ -864,3 +864,4 @@
 - 2026-04-21T17:11:10 tidy imports (#862)
 - 2026-04-21T17:12:06 add example (#863)
 - 2026-04-21T17:25:32 handle empty input (#864)
+- 2026-04-21T17:26:24 add CI check (#865)
