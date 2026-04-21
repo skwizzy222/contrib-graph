@@ -878,3 +878,4 @@
 - 2026-04-21T20:09:54 update docs (#876)
 - 2026-04-21T20:22:51 refactor parser (#877)
 - 2026-04-21T20:25:03 handle empty input (#878)
+- 2026-04-21T20:42:15 simplify branch logic (#879)
