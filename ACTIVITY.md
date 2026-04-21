@@ -877,3 +877,4 @@
 - 2026-04-21T20:01:24 fix edge case in lexer (#875)
 - 2026-04-21T20:09:54 update docs (#876)
 - 2026-04-21T20:22:51 refactor parser (#877)
+- 2026-04-21T20:25:03 handle empty input (#878)
