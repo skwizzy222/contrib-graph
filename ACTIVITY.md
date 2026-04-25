@@ -884,3 +884,4 @@
 - 2026-04-21T21:52:03 rename helpers (#882)
 - 2026-04-21T22:33:39 update config schema (#883)
 - 2026-04-21T22:42:04 update config schema (#884)
+- 2026-04-25T09:08:13 fix typo (#885)
