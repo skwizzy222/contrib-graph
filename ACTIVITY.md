@@ -945,3 +945,4 @@
 - 2026-04-25T20:42:23 rename helpers (#943)
 - 2026-04-25T21:02:19 handle empty input (#944)
 - 2026-04-25T21:16:06 remove dead code (#945)
+- 2026-04-25T21:24:14 bump dependencies (#946)
