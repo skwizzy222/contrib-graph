@@ -935,3 +935,4 @@
 - 2026-04-25T19:22:28 harden input validation (#933)
 - 2026-04-25T19:26:56 remove dead code (#934)
 - 2026-04-25T19:30:23 rename helpers (#935)
+- 2026-04-25T19:35:48 improve error messages (#936)
