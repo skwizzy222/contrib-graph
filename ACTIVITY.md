@@ -906,3 +906,4 @@
 - 2026-04-25T11:57:40 split module (#904)
 - 2026-04-25T12:25:15 add example (#905)
 - 2026-04-25T12:25:23 tidy imports (#906)
+- 2026-04-25T12:32:17 fix edge case in lexer (#907)
