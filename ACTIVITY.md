@@ -891,3 +891,4 @@
 - 2026-04-25T09:38:53 refactor parser (#889)
 - 2026-04-25T09:42:35 fix flaky test (#890)
 - 2026-04-25T09:44:24 add logging (#891)
+- 2026-04-25T09:44:56 handle empty input (#892)
