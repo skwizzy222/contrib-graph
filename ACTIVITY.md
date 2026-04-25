@@ -934,3 +934,4 @@
 - 2026-04-25T19:13:47 add CI check (#932)
 - 2026-04-25T19:22:28 harden input validation (#933)
 - 2026-04-25T19:26:56 remove dead code (#934)
+- 2026-04-25T19:30:23 rename helpers (#935)
