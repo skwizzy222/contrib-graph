@@ -947,3 +947,4 @@
 - 2026-04-25T21:16:06 remove dead code (#945)
 - 2026-04-25T21:24:14 bump dependencies (#946)
 - 2026-04-25T21:27:13 add CI check (#947)
+- 2026-04-25T21:33:35 tweak defaults (#948)
