@@ -886,3 +886,4 @@
 - 2026-04-21T22:42:04 update config schema (#884)
 - 2026-04-25T09:08:13 fix typo (#885)
 - 2026-04-25T09:12:14 minor fixes (#886)
+- 2026-04-25T09:25:53 harden input validation (#887)
