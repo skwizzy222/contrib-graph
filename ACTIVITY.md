@@ -898,3 +898,4 @@
 - 2026-04-25T10:42:42 improve error messages (#896)
 - 2026-04-25T10:49:18 add tests (#897)
 - 2026-04-25T11:01:50 optimize loop (#898)
+- 2026-04-25T11:07:06 minor fixes (#899)
