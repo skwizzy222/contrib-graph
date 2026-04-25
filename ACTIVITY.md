@@ -922,3 +922,4 @@
 - 2026-04-25T15:57:27 handle empty input (#920)
 - 2026-04-25T16:04:07 add CI check (#921)
 - 2026-04-25T16:31:21 improve naming (#922)
+- 2026-04-25T17:32:07 improve naming (#923)
