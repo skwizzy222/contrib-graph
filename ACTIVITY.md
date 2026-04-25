@@ -918,3 +918,4 @@
 - 2026-04-25T15:40:31 add CI check (#916)
 - 2026-04-25T15:41:42 small cleanup (#917)
 - 2026-04-25T15:45:13 optimize loop (#918)
+- 2026-04-25T15:48:50 update config schema (#919)
