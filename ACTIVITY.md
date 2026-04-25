@@ -925,3 +925,4 @@
 - 2026-04-25T17:32:07 improve naming (#923)
 - 2026-04-25T17:35:50 fix flaky test (#924)
 - 2026-04-25T18:00:35 update config schema (#925)
+- 2026-04-25T18:12:46 update docs (#926)
