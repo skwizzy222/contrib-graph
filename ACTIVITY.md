@@ -904,3 +904,4 @@
 - 2026-04-25T11:27:37 simplify branch logic (#902)
 - 2026-04-25T11:46:10 fix flaky test (#903)
 - 2026-04-25T11:57:40 split module (#904)
+- 2026-04-25T12:25:15 add example (#905)
