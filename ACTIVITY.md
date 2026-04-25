@@ -919,3 +919,4 @@
 - 2026-04-25T15:41:42 small cleanup (#917)
 - 2026-04-25T15:45:13 optimize loop (#918)
 - 2026-04-25T15:48:50 update config schema (#919)
+- 2026-04-25T15:57:27 handle empty input (#920)
