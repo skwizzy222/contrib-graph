@@ -943,3 +943,4 @@
 - 2026-04-25T20:27:29 rename helpers (#941)
 - 2026-04-25T20:40:36 improve naming (#942)
 - 2026-04-25T20:42:23 rename helpers (#943)
+- 2026-04-25T21:02:19 handle empty input (#944)
