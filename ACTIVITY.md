@@ -928,3 +928,4 @@
 - 2026-04-25T18:12:46 update docs (#926)
 - 2026-04-25T18:20:32 tweak defaults (#927)
 - 2026-04-25T18:26:20 simplify branch logic (#928)
+- 2026-04-25T18:35:23 tweak defaults (#929)
