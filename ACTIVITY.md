@@ -951,3 +951,4 @@
 - 2026-04-25T21:40:24 add logging (#949)
 - 2026-04-25T21:43:41 remove dead code (#950)
 - 2026-04-25T21:50:22 add tests (#951)
+- 2026-04-25T21:57:04 simplify branch logic (#952)
