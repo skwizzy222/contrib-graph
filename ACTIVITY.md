@@ -933,3 +933,4 @@
 - 2026-04-25T18:49:04 split module (#931)
 - 2026-04-25T19:13:47 add CI check (#932)
 - 2026-04-25T19:22:28 harden input validation (#933)
+- 2026-04-25T19:26:56 remove dead code (#934)
