@@ -907,3 +907,4 @@
 - 2026-04-25T12:25:15 add example (#905)
 - 2026-04-25T12:25:23 tidy imports (#906)
 - 2026-04-25T12:32:17 fix edge case in lexer (#907)
+- 2026-04-25T12:39:58 update docs (#908)
