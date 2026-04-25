@@ -930,3 +930,4 @@
 - 2026-04-25T18:26:20 simplify branch logic (#928)
 - 2026-04-25T18:35:23 tweak defaults (#929)
 - 2026-04-25T18:37:13 add example (#930)
+- 2026-04-25T18:49:04 split module (#931)
