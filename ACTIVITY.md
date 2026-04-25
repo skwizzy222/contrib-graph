@@ -938,3 +938,4 @@
 - 2026-04-25T19:35:48 improve error messages (#936)
 - 2026-04-25T19:40:20 optimize loop (#937)
 - 2026-04-25T19:51:29 update docs (#938)
+- 2026-04-25T20:03:33 add CI check (#939)
