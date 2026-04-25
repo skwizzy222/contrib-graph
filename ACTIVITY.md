@@ -894,3 +894,4 @@
 - 2026-04-25T09:44:56 handle empty input (#892)
 - 2026-04-25T10:02:42 remove dead code (#893)
 - 2026-04-25T10:11:18 optimize loop (#894)
+- 2026-04-25T10:13:34 add example (#895)
