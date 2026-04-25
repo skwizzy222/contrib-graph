@@ -901,3 +901,4 @@
 - 2026-04-25T11:07:06 minor fixes (#899)
 - 2026-04-25T11:17:52 update docs (#900)
 - 2026-04-25T11:21:03 split module (#901)
+- 2026-04-25T11:27:37 simplify branch logic (#902)
