@@ -969,3 +969,4 @@
 - 2026-05-03T10:39:17 polish README (#967)
 - 2026-05-03T10:42:24 remove dead code (#968)
 - 2026-05-03T10:53:58 add example (#969)
+- 2026-05-03T11:12:29 improve naming (#970)
