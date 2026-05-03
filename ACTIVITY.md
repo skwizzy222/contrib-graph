@@ -982,3 +982,4 @@
 - 2026-05-03T12:32:34 extract helper (#980)
 - 2026-05-03T13:00:28 add CI check (#981)
 - 2026-05-03T13:09:54 bump dependencies (#982)
+- 2026-05-03T13:10:51 remove dead code (#983)
