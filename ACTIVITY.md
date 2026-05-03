@@ -998,3 +998,4 @@
 - 2026-05-03T16:19:26 add logging (#996)
 - 2026-05-03T16:21:28 refactor parser (#997)
 - 2026-05-03T16:29:54 extract helper (#998)
+- 2026-05-03T16:43:28 harden input validation (#999)
