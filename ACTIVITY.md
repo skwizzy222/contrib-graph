@@ -985,3 +985,4 @@
 - 2026-05-03T13:10:51 remove dead code (#983)
 - 2026-05-03T13:36:30 harden input validation (#984)
 - 2026-05-03T14:02:53 bump dependencies (#985)
+- 2026-05-03T14:13:22 harden input validation (#986)
