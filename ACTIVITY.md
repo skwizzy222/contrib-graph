@@ -979,3 +979,4 @@
 - 2026-05-03T11:58:21 bump dependencies (#977)
 - 2026-05-03T12:07:48 speed up cache (#978)
 - 2026-05-03T12:23:12 fix typo (#979)
+- 2026-05-03T12:32:34 extract helper (#980)
