@@ -987,3 +987,4 @@
 - 2026-05-03T14:02:53 bump dependencies (#985)
 - 2026-05-03T14:13:22 harden input validation (#986)
 - 2026-05-03T14:16:03 update config schema (#987)
+- 2026-05-03T14:42:09 refactor parser (#988)
