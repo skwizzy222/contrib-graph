@@ -1013,3 +1013,4 @@
 - 2026-05-03T17:40:44 small cleanup (#1011)
 - 2026-05-03T17:46:43 polish README (#1012)
 - 2026-05-03T18:00:39 polish README (#1013)
+- 2026-05-03T18:36:36 harden input validation (#1014)
