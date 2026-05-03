@@ -1016,3 +1016,4 @@
 - 2026-05-03T18:36:36 harden input validation (#1014)
 - 2026-05-03T18:37:14 improve error messages (#1015)
 - 2026-05-03T18:55:49 optimize loop (#1016)
+- 2026-05-03T19:15:13 simplify branch logic (#1017)
