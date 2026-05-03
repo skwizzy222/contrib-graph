@@ -993,3 +993,4 @@
 - 2026-05-03T15:38:24 split module (#991)
 - 2026-05-03T15:46:51 add logging (#992)
 - 2026-05-03T16:01:26 fix flaky test (#993)
+- 2026-05-03T16:06:09 handle empty input (#994)
