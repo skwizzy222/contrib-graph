@@ -955,3 +955,4 @@
 - 2026-04-25T22:33:33 remove dead code (#953)
 - 2026-05-03T09:08:08 extract helper (#954)
 - 2026-05-03T09:09:11 speed up cache (#955)
+- 2026-05-03T09:24:56 extract helper (#956)
