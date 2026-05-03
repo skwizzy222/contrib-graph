@@ -994,3 +994,4 @@
 - 2026-05-03T15:46:51 add logging (#992)
 - 2026-05-03T16:01:26 fix flaky test (#993)
 - 2026-05-03T16:06:09 handle empty input (#994)
+- 2026-05-03T16:12:45 add CI check (#995)
