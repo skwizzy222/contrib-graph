@@ -1023,3 +1023,4 @@
 - 2026-05-03T19:40:36 update docs (#1021)
 - 2026-05-03T19:41:38 add example (#1022)
 - 2026-05-03T20:01:57 remove dead code (#1023)
+- 2026-05-03T20:12:07 simplify branch logic (#1024)
