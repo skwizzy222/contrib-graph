@@ -959,3 +959,4 @@
 - 2026-05-03T09:38:55 simplify branch logic (#957)
 - 2026-05-03T09:51:43 optimize loop (#958)
 - 2026-05-03T09:54:19 bump dependencies (#959)
+- 2026-05-03T10:02:39 add example (#960)
