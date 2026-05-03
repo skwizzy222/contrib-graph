@@ -957,3 +957,4 @@
 - 2026-05-03T09:09:11 speed up cache (#955)
 - 2026-05-03T09:24:56 extract helper (#956)
 - 2026-05-03T09:38:55 simplify branch logic (#957)
+- 2026-05-03T09:51:43 optimize loop (#958)
