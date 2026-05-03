@@ -997,3 +997,4 @@
 - 2026-05-03T16:12:45 add CI check (#995)
 - 2026-05-03T16:19:26 add logging (#996)
 - 2026-05-03T16:21:28 refactor parser (#997)
+- 2026-05-03T16:29:54 extract helper (#998)
