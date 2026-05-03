@@ -964,3 +964,4 @@
 - 2026-05-03T10:06:26 tweak defaults (#962)
 - 2026-05-03T10:26:51 remove dead code (#963)
 - 2026-05-03T10:33:53 add tests (#964)
+- 2026-05-03T10:34:06 improve error messages (#965)
