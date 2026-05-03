@@ -960,3 +960,4 @@
 - 2026-05-03T09:51:43 optimize loop (#958)
 - 2026-05-03T09:54:19 bump dependencies (#959)
 - 2026-05-03T10:02:39 add example (#960)
+- 2026-05-03T10:03:26 polish README (#961)
