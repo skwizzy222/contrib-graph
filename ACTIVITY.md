@@ -1000,3 +1000,4 @@
 - 2026-05-03T16:29:54 extract helper (#998)
 - 2026-05-03T16:43:28 harden input validation (#999)
 - 2026-05-03T16:52:20 split module (#1000)
+- 2026-05-03T16:53:20 fix typo (#1001)
