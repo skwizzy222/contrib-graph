@@ -1025,3 +1025,4 @@
 - 2026-05-03T20:01:57 remove dead code (#1023)
 - 2026-05-03T20:12:07 simplify branch logic (#1024)
 - 2026-05-03T20:17:42 update docs (#1025)
+- 2026-05-03T20:26:29 fix typo (#1026)
