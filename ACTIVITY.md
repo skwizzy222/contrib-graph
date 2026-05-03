@@ -996,3 +996,4 @@
 - 2026-05-03T16:06:09 handle empty input (#994)
 - 2026-05-03T16:12:45 add CI check (#995)
 - 2026-05-03T16:19:26 add logging (#996)
+- 2026-05-03T16:21:28 refactor parser (#997)
