@@ -989,3 +989,4 @@
 - 2026-05-03T14:16:03 update config schema (#987)
 - 2026-05-03T14:42:09 refactor parser (#988)
 - 2026-05-03T14:50:42 tidy imports (#989)
+- 2026-05-03T15:34:43 add tests (#990)
