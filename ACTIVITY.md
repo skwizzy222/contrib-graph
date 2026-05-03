@@ -970,3 +970,4 @@
 - 2026-05-03T10:42:24 remove dead code (#968)
 - 2026-05-03T10:53:58 add example (#969)
 - 2026-05-03T11:12:29 improve naming (#970)
+- 2026-05-03T11:24:09 fix edge case in lexer (#971)
