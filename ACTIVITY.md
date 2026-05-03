@@ -1017,3 +1017,4 @@
 - 2026-05-03T18:37:14 improve error messages (#1015)
 - 2026-05-03T18:55:49 optimize loop (#1016)
 - 2026-05-03T19:15:13 simplify branch logic (#1017)
+- 2026-05-03T19:30:08 fix typo (#1018)
