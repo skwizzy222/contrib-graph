@@ -1064,3 +1064,4 @@
 - 2026-05-04T13:09:13 optimize loop (#1062)
 - 2026-05-04T13:40:07 remove dead code (#1063)
 - 2026-05-04T13:45:15 update config schema (#1064)
+- 2026-05-04T13:53:15 add example (#1065)
