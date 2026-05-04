@@ -1057,3 +1057,4 @@
 - 2026-05-04T12:09:27 harden input validation (#1055)
 - 2026-05-04T12:26:45 tidy imports (#1056)
 - 2026-05-04T12:33:31 fix typo (#1057)
+- 2026-05-04T12:45:21 fix edge case in lexer (#1058)
