@@ -1078,3 +1078,4 @@
 - 2026-05-04T16:30:14 rename helpers (#1076)
 - 2026-05-04T16:56:26 clean up config (#1077)
 - 2026-05-04T16:59:52 fix edge case in lexer (#1078)
+- 2026-05-04T17:43:43 polish README (#1079)
