@@ -1066,3 +1066,4 @@
 - 2026-05-04T13:45:15 update config schema (#1064)
 - 2026-05-04T13:53:15 add example (#1065)
 - 2026-05-04T14:31:56 speed up cache (#1066)
+- 2026-05-04T14:36:37 tweak defaults (#1067)
