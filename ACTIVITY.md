@@ -1086,3 +1086,4 @@
 - 2026-05-04T19:50:49 update config schema (#1084)
 - 2026-05-04T20:02:53 clean up config (#1085)
 - 2026-05-04T20:11:19 split module (#1086)
+- 2026-05-04T20:25:08 small cleanup (#1087)
