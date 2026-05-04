@@ -1054,3 +1054,4 @@
 - 2026-05-04T11:37:53 add example (#1052)
 - 2026-05-04T11:39:40 improve naming (#1053)
 - 2026-05-04T11:44:53 split module (#1054)
+- 2026-05-04T12:09:27 harden input validation (#1055)
