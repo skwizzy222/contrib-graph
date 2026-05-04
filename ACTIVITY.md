@@ -1079,3 +1079,4 @@
 - 2026-05-04T16:56:26 clean up config (#1077)
 - 2026-05-04T16:59:52 fix edge case in lexer (#1078)
 - 2026-05-04T17:43:43 polish README (#1079)
+- 2026-05-04T18:21:24 bump dependencies (#1080)
