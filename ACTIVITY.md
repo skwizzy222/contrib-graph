@@ -1085,3 +1085,4 @@
 - 2026-05-04T19:01:22 tweak defaults (#1083)
 - 2026-05-04T19:50:49 update config schema (#1084)
 - 2026-05-04T20:02:53 clean up config (#1085)
+- 2026-05-04T20:11:19 split module (#1086)
