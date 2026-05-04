@@ -1037,3 +1037,4 @@
 - 2026-05-04T09:12:42 update config schema (#1035)
 - 2026-05-04T09:38:58 optimize loop (#1036)
 - 2026-05-04T09:46:21 fix edge case in lexer (#1037)
+- 2026-05-04T09:46:45 split module (#1038)
