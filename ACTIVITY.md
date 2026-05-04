@@ -1060,3 +1060,4 @@
 - 2026-05-04T12:45:21 fix edge case in lexer (#1058)
 - 2026-05-04T12:51:27 add CI check (#1059)
 - 2026-05-04T13:01:55 simplify branch logic (#1060)
+- 2026-05-04T13:06:23 extract helper (#1061)
