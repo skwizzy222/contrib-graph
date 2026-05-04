@@ -1070,3 +1070,4 @@
 - 2026-05-04T14:43:07 optimize loop (#1068)
 - 2026-05-04T15:23:34 add CI check (#1069)
 - 2026-05-04T15:27:26 handle empty input (#1070)
+- 2026-05-04T15:35:32 small cleanup (#1071)
