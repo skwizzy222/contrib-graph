@@ -1073,3 +1073,4 @@
 - 2026-05-04T15:35:32 small cleanup (#1071)
 - 2026-05-04T15:45:15 speed up cache (#1072)
 - 2026-05-04T15:52:21 handle empty input (#1073)
+- 2026-05-04T15:54:38 handle empty input (#1074)
