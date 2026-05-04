@@ -1050,3 +1050,4 @@
 - 2026-05-04T11:19:19 harden input validation (#1048)
 - 2026-05-04T11:20:34 minor fixes (#1049)
 - 2026-05-04T11:24:12 minor fixes (#1050)
+- 2026-05-04T11:25:24 speed up cache (#1051)
