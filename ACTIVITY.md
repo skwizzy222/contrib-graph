@@ -1098,3 +1098,4 @@
 - 2026-05-04T22:15:34 handle empty input (#1096)
 - 2026-05-04T22:22:36 simplify branch logic (#1097)
 - 2026-05-04T22:29:20 improve naming (#1098)
+- 2026-05-04T22:38:30 bump dependencies (#1099)
