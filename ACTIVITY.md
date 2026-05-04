@@ -1075,3 +1075,4 @@
 - 2026-05-04T15:52:21 handle empty input (#1073)
 - 2026-05-04T15:54:38 handle empty input (#1074)
 - 2026-05-04T16:30:01 fix edge case in lexer (#1075)
+- 2026-05-04T16:30:14 rename helpers (#1076)
