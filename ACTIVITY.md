@@ -1083,3 +1083,4 @@
 - 2026-05-04T18:32:14 simplify branch logic (#1081)
 - 2026-05-04T18:41:43 tweak defaults (#1082)
 - 2026-05-04T19:01:22 tweak defaults (#1083)
+- 2026-05-04T19:50:49 update config schema (#1084)
