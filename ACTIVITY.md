@@ -1034,3 +1034,4 @@
 - 2026-05-03T22:13:24 rename helpers (#1032)
 - 2026-05-03T22:15:47 refactor parser (#1033)
 - 2026-05-03T22:16:39 update docs (#1034)
+- 2026-05-04T09:12:42 update config schema (#1035)
