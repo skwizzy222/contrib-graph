@@ -1048,3 +1048,4 @@
 - 2026-05-04T11:09:43 add example (#1046)
 - 2026-05-04T11:17:24 remove dead code (#1047)
 - 2026-05-04T11:19:19 harden input validation (#1048)
+- 2026-05-04T11:20:34 minor fixes (#1049)
