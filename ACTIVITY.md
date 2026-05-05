@@ -1133,3 +1133,4 @@
 - 2026-05-05T15:33:03 update docs (#1131)
 - 2026-05-05T15:34:23 extract helper (#1132)
 - 2026-05-05T15:37:30 improve error messages (#1133)
+- 2026-05-05T15:42:38 simplify branch logic (#1134)
