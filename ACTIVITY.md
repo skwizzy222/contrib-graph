@@ -1116,3 +1116,4 @@
 - 2026-05-05T12:46:15 refactor parser (#1114)
 - 2026-05-05T12:50:26 update config schema (#1115)
 - 2026-05-05T12:51:19 add tests (#1116)
+- 2026-05-05T12:54:31 split module (#1117)
