@@ -1125,3 +1125,4 @@
 - 2026-05-05T13:48:50 split module (#1123)
 - 2026-05-05T13:57:01 speed up cache (#1124)
 - 2026-05-05T14:12:58 improve error messages (#1125)
+- 2026-05-05T14:29:51 add logging (#1126)
