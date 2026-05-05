@@ -1141,3 +1141,4 @@
 - 2026-05-05T18:04:10 fix edge case in lexer (#1139)
 - 2026-05-05T19:12:47 fix flaky test (#1140)
 - 2026-05-05T19:16:24 update docs (#1141)
+- 2026-05-05T19:38:52 add logging (#1142)
