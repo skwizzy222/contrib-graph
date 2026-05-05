@@ -1128,3 +1128,4 @@
 - 2026-05-05T14:29:51 add logging (#1126)
 - 2026-05-05T14:36:53 update config schema (#1127)
 - 2026-05-05T14:58:19 improve naming (#1128)
+- 2026-05-05T15:04:05 simplify branch logic (#1129)
