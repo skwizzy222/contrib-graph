@@ -1153,3 +1153,4 @@
 - 2026-05-05T21:22:22 improve error messages (#1151)
 - 2026-05-05T21:28:52 add logging (#1152)
 - 2026-05-05T21:43:52 fix typo (#1153)
+- 2026-05-05T21:52:02 fix edge case in lexer (#1154)
