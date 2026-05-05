@@ -1122,3 +1122,4 @@
 - 2026-05-05T13:15:57 fix flaky test (#1120)
 - 2026-05-05T13:25:31 rename helpers (#1121)
 - 2026-05-05T13:35:13 harden input validation (#1122)
+- 2026-05-05T13:48:50 split module (#1123)
