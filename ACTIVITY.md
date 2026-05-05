@@ -1135,3 +1135,4 @@
 - 2026-05-05T15:37:30 improve error messages (#1133)
 - 2026-05-05T15:42:38 simplify branch logic (#1134)
 - 2026-05-05T16:02:10 update docs (#1135)
+- 2026-05-05T17:14:04 add logging (#1136)
