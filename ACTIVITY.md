@@ -1131,3 +1131,4 @@
 - 2026-05-05T15:04:05 simplify branch logic (#1129)
 - 2026-05-05T15:17:53 extract helper (#1130)
 - 2026-05-05T15:33:03 update docs (#1131)
+- 2026-05-05T15:34:23 extract helper (#1132)
