@@ -1117,3 +1117,4 @@
 - 2026-05-05T12:50:26 update config schema (#1115)
 - 2026-05-05T12:51:19 add tests (#1116)
 - 2026-05-05T12:54:31 split module (#1117)
+- 2026-05-05T13:08:41 clean up config (#1118)
