@@ -1145,3 +1145,4 @@
 - 2026-05-05T19:44:05 extract helper (#1143)
 - 2026-05-05T20:10:15 rename helpers (#1144)
 - 2026-05-05T20:22:53 fix edge case in lexer (#1145)
+- 2026-05-05T20:24:14 add tests (#1146)
