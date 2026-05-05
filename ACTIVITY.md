@@ -1150,3 +1150,4 @@
 - 2026-05-05T20:50:25 fix flaky test (#1148)
 - 2026-05-05T20:50:35 bump dependencies (#1149)
 - 2026-05-05T21:21:09 update docs (#1150)
+- 2026-05-05T21:22:22 improve error messages (#1151)
