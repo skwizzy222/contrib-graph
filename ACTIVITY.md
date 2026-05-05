@@ -1156,3 +1156,4 @@
 - 2026-05-05T21:52:02 fix edge case in lexer (#1154)
 - 2026-05-05T21:53:00 update docs (#1155)
 - 2026-05-05T22:02:32 split module (#1156)
+- 2026-05-05T22:40:08 speed up cache (#1157)
