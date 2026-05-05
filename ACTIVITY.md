@@ -1120,3 +1120,4 @@
 - 2026-05-05T13:08:41 clean up config (#1118)
 - 2026-05-05T13:13:52 speed up cache (#1119)
 - 2026-05-05T13:15:57 fix flaky test (#1120)
+- 2026-05-05T13:25:31 rename helpers (#1121)
