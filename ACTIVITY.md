@@ -1147,3 +1147,4 @@
 - 2026-05-05T20:22:53 fix edge case in lexer (#1145)
 - 2026-05-05T20:24:14 add tests (#1146)
 - 2026-05-05T20:39:34 refactor parser (#1147)
+- 2026-05-05T20:50:25 fix flaky test (#1148)
