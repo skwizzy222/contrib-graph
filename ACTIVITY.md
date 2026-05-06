@@ -1193,3 +1193,4 @@
 - 2026-05-06T15:26:45 extract helper (#1191)
 - 2026-05-06T15:36:48 update docs (#1192)
 - 2026-05-06T15:45:37 handle empty input (#1193)
+- 2026-05-06T15:55:31 extract helper (#1194)
