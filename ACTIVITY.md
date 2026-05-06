@@ -1168,3 +1168,4 @@
 - 2026-05-06T10:12:54 refactor parser (#1166)
 - 2026-05-06T10:49:30 update config schema (#1167)
 - 2026-05-06T10:52:43 polish README (#1168)
+- 2026-05-06T10:54:22 improve error messages (#1169)
