@@ -1213,3 +1213,4 @@
 - 2026-05-06T20:10:38 tidy imports (#1211)
 - 2026-05-06T20:30:24 improve error messages (#1212)
 - 2026-05-06T20:47:02 improve error messages (#1213)
+- 2026-05-06T21:09:09 add logging (#1214)
