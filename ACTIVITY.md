@@ -1204,3 +1204,4 @@
 - 2026-05-06T18:05:37 update config schema (#1202)
 - 2026-05-06T18:31:46 small cleanup (#1203)
 - 2026-05-06T18:56:28 tidy imports (#1204)
+- 2026-05-06T19:10:56 remove dead code (#1205)
