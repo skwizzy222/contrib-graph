@@ -1219,3 +1219,4 @@
 - 2026-05-06T21:13:11 improve naming (#1217)
 - 2026-05-06T21:20:46 update docs (#1218)
 - 2026-05-06T21:55:46 harden input validation (#1219)
+- 2026-05-06T22:16:08 fix edge case in lexer (#1220)
