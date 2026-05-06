@@ -1211,3 +1211,4 @@
 - 2026-05-06T19:49:17 improve error messages (#1209)
 - 2026-05-06T20:07:27 fix edge case in lexer (#1210)
 - 2026-05-06T20:10:38 tidy imports (#1211)
+- 2026-05-06T20:30:24 improve error messages (#1212)
