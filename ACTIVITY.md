@@ -1198,3 +1198,4 @@
 - 2026-05-06T16:20:37 polish README (#1196)
 - 2026-05-06T16:47:54 add logging (#1197)
 - 2026-05-06T17:07:33 rename helpers (#1198)
+- 2026-05-06T17:14:41 harden input validation (#1199)
