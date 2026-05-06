@@ -1201,3 +1201,4 @@
 - 2026-05-06T17:14:41 harden input validation (#1199)
 - 2026-05-06T17:31:11 add tests (#1200)
 - 2026-05-06T17:31:47 fix typo (#1201)
+- 2026-05-06T18:05:37 update config schema (#1202)
