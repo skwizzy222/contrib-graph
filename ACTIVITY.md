@@ -1183,3 +1183,4 @@
 - 2026-05-06T13:49:15 fix edge case in lexer (#1181)
 - 2026-05-06T13:51:46 optimize loop (#1182)
 - 2026-05-06T13:53:48 tweak defaults (#1183)
+- 2026-05-06T13:56:23 remove dead code (#1184)
