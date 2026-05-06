@@ -1179,3 +1179,4 @@
 - 2026-05-06T12:54:52 fix flaky test (#1177)
 - 2026-05-06T13:01:17 split module (#1178)
 - 2026-05-06T13:12:34 simplify branch logic (#1179)
+- 2026-05-06T13:33:16 small cleanup (#1180)
