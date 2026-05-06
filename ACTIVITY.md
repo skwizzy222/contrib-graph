@@ -1195,3 +1195,4 @@
 - 2026-05-06T15:45:37 handle empty input (#1193)
 - 2026-05-06T15:55:31 extract helper (#1194)
 - 2026-05-06T15:56:51 split module (#1195)
+- 2026-05-06T16:20:37 polish README (#1196)
