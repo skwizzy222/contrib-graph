@@ -1166,3 +1166,4 @@
 - 2026-05-06T09:58:39 split module (#1164)
 - 2026-05-06T10:00:56 update docs (#1165)
 - 2026-05-06T10:12:54 refactor parser (#1166)
+- 2026-05-06T10:49:30 update config schema (#1167)
