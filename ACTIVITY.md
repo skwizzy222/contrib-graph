@@ -1209,3 +1209,4 @@
 - 2026-05-06T19:48:10 add tests (#1207)
 - 2026-05-06T19:48:34 split module (#1208)
 - 2026-05-06T19:49:17 improve error messages (#1209)
+- 2026-05-06T20:07:27 fix edge case in lexer (#1210)
