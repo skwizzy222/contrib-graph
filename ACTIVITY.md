@@ -1216,3 +1216,4 @@
 - 2026-05-06T21:09:09 add logging (#1214)
 - 2026-05-06T21:09:35 refactor parser (#1215)
 - 2026-05-06T21:10:54 bump dependencies (#1216)
+- 2026-05-06T21:13:11 improve naming (#1217)
