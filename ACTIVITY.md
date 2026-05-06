@@ -1169,3 +1169,4 @@
 - 2026-05-06T10:49:30 update config schema (#1167)
 - 2026-05-06T10:52:43 polish README (#1168)
 - 2026-05-06T10:54:22 improve error messages (#1169)
+- 2026-05-06T10:58:09 add example (#1170)
