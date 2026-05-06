@@ -1222,3 +1222,4 @@
 - 2026-05-06T22:16:08 fix edge case in lexer (#1220)
 - 2026-05-06T22:17:39 tidy imports (#1221)
 - 2026-05-06T22:19:57 optimize loop (#1222)
+- 2026-05-06T22:34:06 speed up cache (#1223)
