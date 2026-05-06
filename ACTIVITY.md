@@ -1194,3 +1194,4 @@
 - 2026-05-06T15:36:48 update docs (#1192)
 - 2026-05-06T15:45:37 handle empty input (#1193)
 - 2026-05-06T15:55:31 extract helper (#1194)
+- 2026-05-06T15:56:51 split module (#1195)
