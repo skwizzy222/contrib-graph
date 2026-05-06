@@ -1171,3 +1171,4 @@
 - 2026-05-06T10:54:22 improve error messages (#1169)
 - 2026-05-06T10:58:09 add example (#1170)
 - 2026-05-06T11:03:52 refactor parser (#1171)
+- 2026-05-06T11:08:25 add example (#1172)
