@@ -1246,3 +1246,4 @@
 - 2026-05-07T12:29:28 fix flaky test (#1244)
 - 2026-05-07T12:32:35 extract helper (#1245)
 - 2026-05-07T12:34:01 refactor parser (#1246)
+- 2026-05-07T12:58:22 simplify branch logic (#1247)
