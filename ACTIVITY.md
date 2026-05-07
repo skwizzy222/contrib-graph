@@ -1291,3 +1291,4 @@
 - 2026-05-07T20:17:42 polish README (#1289)
 - 2026-05-07T20:40:42 simplify branch logic (#1290)
 - 2026-05-07T20:45:19 add tests (#1291)
+- 2026-05-07T20:49:46 polish README (#1292)
