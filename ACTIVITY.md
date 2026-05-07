@@ -1295,3 +1295,4 @@
 - 2026-05-07T21:14:26 fix typo (#1293)
 - 2026-05-07T21:14:47 harden input validation (#1294)
 - 2026-05-07T21:21:38 add CI check (#1295)
+- 2026-05-07T21:37:49 extract helper (#1296)
