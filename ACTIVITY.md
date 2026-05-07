@@ -1228,3 +1228,4 @@
 - 2026-05-06T22:54:05 clean up config (#1226)
 - 2026-05-06T22:54:49 small cleanup (#1227)
 - 2026-05-07T09:09:39 fix flaky test (#1228)
+- 2026-05-07T09:29:03 remove dead code (#1229)
