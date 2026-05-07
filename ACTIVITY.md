@@ -1277,3 +1277,4 @@
 - 2026-05-07T18:21:32 tidy imports (#1275)
 - 2026-05-07T18:26:06 tweak defaults (#1276)
 - 2026-05-07T18:33:43 minor fixes (#1277)
+- 2026-05-07T19:25:35 bump dependencies (#1278)
