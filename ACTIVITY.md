@@ -1237,3 +1237,4 @@
 - 2026-05-07T10:50:55 bump dependencies (#1235)
 - 2026-05-07T10:53:05 update docs (#1236)
 - 2026-05-07T11:15:18 add CI check (#1237)
+- 2026-05-07T11:21:33 improve error messages (#1238)
