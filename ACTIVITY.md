@@ -1294,3 +1294,4 @@
 - 2026-05-07T20:49:46 polish README (#1292)
 - 2026-05-07T21:14:26 fix typo (#1293)
 - 2026-05-07T21:14:47 harden input validation (#1294)
+- 2026-05-07T21:21:38 add CI check (#1295)
