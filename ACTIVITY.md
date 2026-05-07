@@ -1272,3 +1272,4 @@
 - 2026-05-07T17:21:13 remove dead code (#1270)
 - 2026-05-07T17:21:25 simplify branch logic (#1271)
 - 2026-05-07T17:40:13 clean up config (#1272)
+- 2026-05-07T17:59:26 add CI check (#1273)
