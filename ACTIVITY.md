@@ -1231,3 +1231,4 @@
 - 2026-05-07T09:29:03 remove dead code (#1229)
 - 2026-05-07T09:35:52 tidy imports (#1230)
 - 2026-05-07T10:09:31 rename helpers (#1231)
+- 2026-05-07T10:28:54 polish README (#1232)
