@@ -1242,3 +1242,4 @@
 - 2026-05-07T11:42:22 add example (#1240)
 - 2026-05-07T11:42:29 handle empty input (#1241)
 - 2026-05-07T12:11:33 improve error messages (#1242)
+- 2026-05-07T12:26:49 add tests (#1243)
