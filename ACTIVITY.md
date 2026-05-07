@@ -1248,3 +1248,4 @@
 - 2026-05-07T12:34:01 refactor parser (#1246)
 - 2026-05-07T12:58:22 simplify branch logic (#1247)
 - 2026-05-07T13:00:20 handle empty input (#1248)
+- 2026-05-07T13:03:43 add example (#1249)
