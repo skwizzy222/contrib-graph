@@ -1255,3 +1255,4 @@
 - 2026-05-07T13:39:17 remove dead code (#1253)
 - 2026-05-07T13:54:12 small cleanup (#1254)
 - 2026-05-07T13:56:28 small cleanup (#1255)
+- 2026-05-07T14:02:09 optimize loop (#1256)
