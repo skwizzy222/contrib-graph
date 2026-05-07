@@ -1234,3 +1234,4 @@
 - 2026-05-07T10:28:54 polish README (#1232)
 - 2026-05-07T10:34:18 clean up config (#1233)
 - 2026-05-07T10:43:08 update docs (#1234)
+- 2026-05-07T10:50:55 bump dependencies (#1235)
