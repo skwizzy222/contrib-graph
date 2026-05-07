@@ -1280,3 +1280,4 @@
 - 2026-05-07T19:25:35 bump dependencies (#1278)
 - 2026-05-07T19:26:48 add logging (#1279)
 - 2026-05-07T19:29:07 optimize loop (#1280)
+- 2026-05-07T19:35:22 extract helper (#1281)
