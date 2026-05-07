@@ -1284,3 +1284,4 @@
 - 2026-05-07T19:35:56 tidy imports (#1282)
 - 2026-05-07T19:41:59 simplify branch logic (#1283)
 - 2026-05-07T19:43:38 fix typo (#1284)
+- 2026-05-07T19:53:14 simplify branch logic (#1285)
