@@ -1267,3 +1267,4 @@
 - 2026-05-07T15:58:25 fix flaky test (#1265)
 - 2026-05-07T16:32:27 harden input validation (#1266)
 - 2026-05-07T16:42:04 add CI check (#1267)
+- 2026-05-07T17:09:09 add CI check (#1268)
