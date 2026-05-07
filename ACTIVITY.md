@@ -1244,3 +1244,4 @@
 - 2026-05-07T12:11:33 improve error messages (#1242)
 - 2026-05-07T12:26:49 add tests (#1243)
 - 2026-05-07T12:29:28 fix flaky test (#1244)
+- 2026-05-07T12:32:35 extract helper (#1245)
