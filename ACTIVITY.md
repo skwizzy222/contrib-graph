@@ -1287,3 +1287,4 @@
 - 2026-05-07T19:53:14 simplify branch logic (#1285)
 - 2026-05-07T19:59:28 add example (#1286)
 - 2026-05-07T20:11:07 simplify branch logic (#1287)
+- 2026-05-07T20:11:09 add tests (#1288)
