@@ -1270,3 +1270,4 @@
 - 2026-05-07T17:09:09 add CI check (#1268)
 - 2026-05-07T17:11:42 tidy imports (#1269)
 - 2026-05-07T17:21:13 remove dead code (#1270)
+- 2026-05-07T17:21:25 simplify branch logic (#1271)
