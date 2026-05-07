@@ -1240,3 +1240,4 @@
 - 2026-05-07T11:21:33 improve error messages (#1238)
 - 2026-05-07T11:31:15 update docs (#1239)
 - 2026-05-07T11:42:22 add example (#1240)
+- 2026-05-07T11:42:29 handle empty input (#1241)
