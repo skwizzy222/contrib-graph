@@ -1258,3 +1258,4 @@
 - 2026-05-07T14:02:09 optimize loop (#1256)
 - 2026-05-07T14:42:47 bump dependencies (#1257)
 - 2026-05-07T14:43:29 polish README (#1258)
+- 2026-05-07T14:49:43 handle empty input (#1259)
