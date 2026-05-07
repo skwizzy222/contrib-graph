@@ -1298,3 +1298,4 @@
 - 2026-05-07T21:37:49 extract helper (#1296)
 - 2026-05-07T21:47:43 remove dead code (#1297)
 - 2026-05-07T21:57:01 polish README (#1298)
+- 2026-05-07T22:07:13 rename helpers (#1299)
