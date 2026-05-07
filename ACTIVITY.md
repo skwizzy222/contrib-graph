@@ -1261,3 +1261,4 @@
 - 2026-05-07T14:49:43 handle empty input (#1259)
 - 2026-05-07T14:55:12 tidy imports (#1260)
 - 2026-05-07T15:05:39 add example (#1261)
+- 2026-05-07T15:11:03 bump dependencies (#1262)
