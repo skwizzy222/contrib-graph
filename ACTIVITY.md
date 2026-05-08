@@ -1337,3 +1337,4 @@
 - 2026-05-08T14:11:30 tidy imports (#1335)
 - 2026-05-08T14:18:15 bump dependencies (#1336)
 - 2026-05-08T14:22:40 speed up cache (#1337)
+- 2026-05-08T15:09:33 simplify branch logic (#1338)
