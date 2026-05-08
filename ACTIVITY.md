@@ -1302,3 +1302,4 @@
 - 2026-05-07T22:42:01 add tests (#1300)
 - 2026-05-07T22:47:20 bump dependencies (#1301)
 - 2026-05-08T09:02:41 update config schema (#1302)
+- 2026-05-08T09:04:43 fix flaky test (#1303)
