@@ -1317,3 +1317,4 @@
 - 2026-05-08T11:16:52 add CI check (#1315)
 - 2026-05-08T11:18:01 improve naming (#1316)
 - 2026-05-08T11:22:10 tidy imports (#1317)
+- 2026-05-08T11:22:47 fix edge case in lexer (#1318)
