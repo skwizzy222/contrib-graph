@@ -1303,3 +1303,4 @@
 - 2026-05-07T22:47:20 bump dependencies (#1301)
 - 2026-05-08T09:02:41 update config schema (#1302)
 - 2026-05-08T09:04:43 fix flaky test (#1303)
+- 2026-05-08T09:13:44 fix typo (#1304)
