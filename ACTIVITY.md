@@ -1365,3 +1365,4 @@
 - 2026-05-08T19:12:29 improve error messages (#1363)
 - 2026-05-08T19:29:47 optimize loop (#1364)
 - 2026-05-08T19:32:51 remove dead code (#1365)
+- 2026-05-08T19:44:08 improve error messages (#1366)
