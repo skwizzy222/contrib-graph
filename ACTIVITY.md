@@ -1368,3 +1368,4 @@
 - 2026-05-08T19:44:08 improve error messages (#1366)
 - 2026-05-08T19:58:55 extract helper (#1367)
 - 2026-05-08T19:59:58 clean up config (#1368)
+- 2026-05-08T20:06:05 minor fixes (#1369)
