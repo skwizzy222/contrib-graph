@@ -1320,3 +1320,4 @@
 - 2026-05-08T11:22:47 fix edge case in lexer (#1318)
 - 2026-05-08T11:28:22 tidy imports (#1319)
 - 2026-05-08T11:44:22 polish README (#1320)
+- 2026-05-08T11:49:55 add example (#1321)
