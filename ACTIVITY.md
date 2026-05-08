@@ -1363,3 +1363,4 @@
 - 2026-05-08T18:20:23 bump dependencies (#1361)
 - 2026-05-08T18:50:03 clean up config (#1362)
 - 2026-05-08T19:12:29 improve error messages (#1363)
+- 2026-05-08T19:29:47 optimize loop (#1364)
