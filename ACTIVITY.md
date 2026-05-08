@@ -1329,3 +1329,4 @@
 - 2026-05-08T12:55:02 harden input validation (#1327)
 - 2026-05-08T13:00:10 optimize loop (#1328)
 - 2026-05-08T13:17:30 minor fixes (#1329)
+- 2026-05-08T13:39:53 small cleanup (#1330)
