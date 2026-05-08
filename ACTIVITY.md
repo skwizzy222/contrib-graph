@@ -1372,3 +1372,4 @@
 - 2026-05-08T20:22:05 add logging (#1370)
 - 2026-05-08T20:33:48 rename helpers (#1371)
 - 2026-05-08T21:43:33 fix edge case in lexer (#1372)
+- 2026-05-08T21:54:42 add CI check (#1373)
