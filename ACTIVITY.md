@@ -1361,3 +1361,4 @@
 - 2026-05-08T18:13:06 rename helpers (#1359)
 - 2026-05-08T18:17:04 refactor parser (#1360)
 - 2026-05-08T18:20:23 bump dependencies (#1361)
+- 2026-05-08T18:50:03 clean up config (#1362)
