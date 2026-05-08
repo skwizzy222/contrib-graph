@@ -1325,3 +1325,4 @@
 - 2026-05-08T12:36:49 tidy imports (#1323)
 - 2026-05-08T12:40:16 tidy imports (#1324)
 - 2026-05-08T12:41:32 simplify branch logic (#1325)
+- 2026-05-08T12:52:46 split module (#1326)
