@@ -1339,3 +1339,4 @@
 - 2026-05-08T14:22:40 speed up cache (#1337)
 - 2026-05-08T15:09:33 simplify branch logic (#1338)
 - 2026-05-08T15:19:21 harden input validation (#1339)
+- 2026-05-08T15:21:22 refactor parser (#1340)
