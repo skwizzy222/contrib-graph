@@ -1444,3 +1444,4 @@
 - 2026-05-09T21:10:05 add example (#1442)
 - 2026-05-09T21:17:40 add tests (#1443)
 - 2026-05-09T21:22:12 simplify branch logic (#1444)
+- 2026-05-09T21:27:08 fix edge case in lexer (#1445)
