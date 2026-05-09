@@ -1386,3 +1386,4 @@
 - 2026-05-09T10:45:08 simplify branch logic (#1384)
 - 2026-05-09T10:49:46 add CI check (#1385)
 - 2026-05-09T10:52:57 speed up cache (#1386)
+- 2026-05-09T11:26:03 polish README (#1387)
