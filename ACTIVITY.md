@@ -1413,3 +1413,4 @@
 - 2026-05-09T16:52:48 small cleanup (#1411)
 - 2026-05-09T17:02:30 add CI check (#1412)
 - 2026-05-09T17:08:19 clean up config (#1413)
+- 2026-05-09T17:15:28 simplify branch logic (#1414)
