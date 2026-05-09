@@ -1424,3 +1424,4 @@
 - 2026-05-09T18:21:07 update config schema (#1422)
 - 2026-05-09T18:21:09 tweak defaults (#1423)
 - 2026-05-09T18:25:02 polish README (#1424)
+- 2026-05-09T18:28:37 add example (#1425)
