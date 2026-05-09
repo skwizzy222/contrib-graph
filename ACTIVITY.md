@@ -1417,3 +1417,4 @@
 - 2026-05-09T17:20:33 improve naming (#1415)
 - 2026-05-09T17:29:09 minor fixes (#1416)
 - 2026-05-09T17:30:24 simplify branch logic (#1417)
+- 2026-05-09T17:38:33 fix edge case in lexer (#1418)
