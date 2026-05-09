@@ -1396,3 +1396,4 @@
 - 2026-05-09T12:28:20 clean up config (#1394)
 - 2026-05-09T12:51:44 harden input validation (#1395)
 - 2026-05-09T13:40:25 update config schema (#1396)
+- 2026-05-09T13:56:26 clean up config (#1397)
