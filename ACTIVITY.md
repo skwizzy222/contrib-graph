@@ -1450,3 +1450,4 @@
 - 2026-05-09T21:41:41 harden input validation (#1448)
 - 2026-05-09T21:58:41 tidy imports (#1449)
 - 2026-05-09T22:27:44 add tests (#1450)
+- 2026-05-09T22:33:37 handle empty input (#1451)
