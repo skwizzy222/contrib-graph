@@ -1420,3 +1420,4 @@
 - 2026-05-09T17:38:33 fix edge case in lexer (#1418)
 - 2026-05-09T17:47:20 bump dependencies (#1419)
 - 2026-05-09T17:58:49 harden input validation (#1420)
+- 2026-05-09T18:13:52 add example (#1421)
