@@ -1445,3 +1445,4 @@
 - 2026-05-09T21:17:40 add tests (#1443)
 - 2026-05-09T21:22:12 simplify branch logic (#1444)
 - 2026-05-09T21:27:08 fix edge case in lexer (#1445)
+- 2026-05-09T21:30:11 fix typo (#1446)
