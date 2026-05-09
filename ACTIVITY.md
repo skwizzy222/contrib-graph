@@ -1388,3 +1388,4 @@
 - 2026-05-09T10:52:57 speed up cache (#1386)
 - 2026-05-09T11:26:03 polish README (#1387)
 - 2026-05-09T11:54:42 rename helpers (#1388)
+- 2026-05-09T12:00:12 improve naming (#1389)
