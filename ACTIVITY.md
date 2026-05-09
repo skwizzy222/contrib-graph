@@ -1409,3 +1409,4 @@
 - 2026-05-09T16:10:42 remove dead code (#1407)
 - 2026-05-09T16:15:04 extract helper (#1408)
 - 2026-05-09T16:28:59 handle empty input (#1409)
+- 2026-05-09T16:30:35 refactor parser (#1410)
