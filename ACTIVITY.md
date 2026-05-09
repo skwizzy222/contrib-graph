@@ -1400,3 +1400,4 @@
 - 2026-05-09T13:57:08 harden input validation (#1398)
 - 2026-05-09T14:14:15 improve naming (#1399)
 - 2026-05-09T14:33:42 add CI check (#1400)
+- 2026-05-09T14:57:48 speed up cache (#1401)
