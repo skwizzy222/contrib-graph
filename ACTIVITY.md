@@ -1411,3 +1411,4 @@
 - 2026-05-09T16:28:59 handle empty input (#1409)
 - 2026-05-09T16:30:35 refactor parser (#1410)
 - 2026-05-09T16:52:48 small cleanup (#1411)
+- 2026-05-09T17:02:30 add CI check (#1412)
