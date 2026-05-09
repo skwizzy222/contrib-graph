@@ -1407,3 +1407,4 @@
 - 2026-05-09T15:36:56 add logging (#1405)
 - 2026-05-09T15:41:52 refactor parser (#1406)
 - 2026-05-09T16:10:42 remove dead code (#1407)
+- 2026-05-09T16:15:04 extract helper (#1408)
