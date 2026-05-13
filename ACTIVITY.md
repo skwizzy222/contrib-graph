@@ -1462,3 +1462,4 @@
 - 2026-05-13T10:14:14 handle empty input (#1460)
 - 2026-05-13T10:18:05 update docs (#1461)
 - 2026-05-13T10:21:26 rename helpers (#1462)
+- 2026-05-13T10:21:32 small cleanup (#1463)
