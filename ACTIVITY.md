@@ -1518,3 +1518,4 @@
 - 2026-05-13T20:09:39 simplify branch logic (#1516)
 - 2026-05-13T20:18:41 update docs (#1517)
 - 2026-05-13T20:19:38 refactor parser (#1518)
+- 2026-05-13T20:34:58 split module (#1519)
