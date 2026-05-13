@@ -1480,3 +1480,4 @@
 - 2026-05-13T11:59:51 bump dependencies (#1478)
 - 2026-05-13T12:25:53 clean up config (#1479)
 - 2026-05-13T12:36:49 improve naming (#1480)
+- 2026-05-13T12:54:30 add example (#1481)
