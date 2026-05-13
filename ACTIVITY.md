@@ -1502,3 +1502,4 @@
 - 2026-05-13T16:26:54 bump dependencies (#1500)
 - 2026-05-13T17:12:07 harden input validation (#1501)
 - 2026-05-13T17:19:24 polish README (#1502)
+- 2026-05-13T17:28:01 add example (#1503)
