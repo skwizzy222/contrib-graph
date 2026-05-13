@@ -1522,3 +1522,4 @@
 - 2026-05-13T20:40:29 improve error messages (#1520)
 - 2026-05-13T20:42:46 tidy imports (#1521)
 - 2026-05-13T20:43:20 polish README (#1522)
+- 2026-05-13T21:01:33 clean up config (#1523)
