@@ -1469,3 +1469,4 @@
 - 2026-05-13T10:29:36 add example (#1467)
 - 2026-05-13T10:33:27 improve naming (#1468)
 - 2026-05-13T10:45:19 improve naming (#1469)
+- 2026-05-13T10:51:31 handle empty input (#1470)
