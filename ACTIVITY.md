@@ -1524,3 +1524,4 @@
 - 2026-05-13T20:43:20 polish README (#1522)
 - 2026-05-13T21:01:33 clean up config (#1523)
 - 2026-05-13T21:22:32 tidy imports (#1524)
+- 2026-05-13T22:08:08 update config schema (#1525)
