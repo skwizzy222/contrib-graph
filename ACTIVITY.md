@@ -1486,3 +1486,4 @@
 - 2026-05-13T13:19:35 remove dead code (#1484)
 - 2026-05-13T13:50:05 clean up config (#1485)
 - 2026-05-13T14:15:37 clean up config (#1486)
+- 2026-05-13T14:23:39 polish README (#1487)
