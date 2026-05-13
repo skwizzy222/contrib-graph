@@ -1491,3 +1491,4 @@
 - 2026-05-13T14:45:17 add CI check (#1489)
 - 2026-05-13T14:47:42 fix edge case in lexer (#1490)
 - 2026-05-13T15:02:52 minor fixes (#1491)
+- 2026-05-13T15:07:26 optimize loop (#1492)
