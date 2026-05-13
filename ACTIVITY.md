@@ -1461,3 +1461,4 @@
 - 2026-05-13T10:12:56 fix edge case in lexer (#1459)
 - 2026-05-13T10:14:14 handle empty input (#1460)
 - 2026-05-13T10:18:05 update docs (#1461)
+- 2026-05-13T10:21:26 rename helpers (#1462)
