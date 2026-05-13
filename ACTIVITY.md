@@ -1472,3 +1472,4 @@
 - 2026-05-13T10:51:31 handle empty input (#1470)
 - 2026-05-13T10:52:17 add tests (#1471)
 - 2026-05-13T11:30:57 add tests (#1472)
+- 2026-05-13T11:33:50 harden input validation (#1473)
