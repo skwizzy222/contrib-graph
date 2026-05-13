@@ -1489,3 +1489,4 @@
 - 2026-05-13T14:23:39 polish README (#1487)
 - 2026-05-13T14:33:42 split module (#1488)
 - 2026-05-13T14:45:17 add CI check (#1489)
+- 2026-05-13T14:47:42 fix edge case in lexer (#1490)
