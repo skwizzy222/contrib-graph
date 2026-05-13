@@ -1527,3 +1527,4 @@
 - 2026-05-13T22:08:08 update config schema (#1525)
 - 2026-05-13T22:13:29 extract helper (#1526)
 - 2026-05-13T22:16:22 speed up cache (#1527)
+- 2026-05-13T22:22:45 tweak defaults (#1528)
