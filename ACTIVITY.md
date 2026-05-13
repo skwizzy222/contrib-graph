@@ -1458,3 +1458,4 @@
 - 2026-05-13T09:58:35 fix flaky test (#1456)
 - 2026-05-13T10:03:52 small cleanup (#1457)
 - 2026-05-13T10:05:48 extract helper (#1458)
+- 2026-05-13T10:12:56 fix edge case in lexer (#1459)
