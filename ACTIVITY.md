@@ -1503,3 +1503,4 @@
 - 2026-05-13T17:12:07 harden input validation (#1501)
 - 2026-05-13T17:19:24 polish README (#1502)
 - 2026-05-13T17:28:01 add example (#1503)
+- 2026-05-13T17:29:24 speed up cache (#1504)
