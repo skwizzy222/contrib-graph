@@ -1465,3 +1465,4 @@
 - 2026-05-13T10:21:32 small cleanup (#1463)
 - 2026-05-13T10:22:02 bump dependencies (#1464)
 - 2026-05-13T10:22:14 refactor parser (#1465)
+- 2026-05-13T10:23:22 update docs (#1466)
