@@ -1529,3 +1529,4 @@
 - 2026-05-13T22:16:22 speed up cache (#1527)
 - 2026-05-13T22:22:45 tweak defaults (#1528)
 - 2026-05-13T22:24:33 bump dependencies (#1529)
+- 2026-05-13T22:31:57 add example (#1530)
