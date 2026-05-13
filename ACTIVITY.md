@@ -1498,3 +1498,4 @@
 - 2026-05-13T15:31:13 refactor parser (#1496)
 - 2026-05-13T15:37:57 small cleanup (#1497)
 - 2026-05-13T15:41:23 simplify branch logic (#1498)
+- 2026-05-13T16:19:07 bump dependencies (#1499)
