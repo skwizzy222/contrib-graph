@@ -1476,3 +1476,4 @@
 - 2026-05-13T11:45:20 minor fixes (#1474)
 - 2026-05-13T11:46:02 update config schema (#1475)
 - 2026-05-13T11:46:59 bump dependencies (#1476)
+- 2026-05-13T11:57:13 update docs (#1477)
