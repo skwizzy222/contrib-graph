@@ -1521,3 +1521,4 @@
 - 2026-05-13T20:34:58 split module (#1519)
 - 2026-05-13T20:40:29 improve error messages (#1520)
 - 2026-05-13T20:42:46 tidy imports (#1521)
+- 2026-05-13T20:43:20 polish README (#1522)
