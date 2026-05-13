@@ -1494,3 +1494,4 @@
 - 2026-05-13T15:07:26 optimize loop (#1492)
 - 2026-05-13T15:18:30 add example (#1493)
 - 2026-05-13T15:21:34 polish README (#1494)
+- 2026-05-13T15:25:54 simplify branch logic (#1495)
