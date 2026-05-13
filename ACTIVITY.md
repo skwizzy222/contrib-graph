@@ -1478,3 +1478,4 @@
 - 2026-05-13T11:46:59 bump dependencies (#1476)
 - 2026-05-13T11:57:13 update docs (#1477)
 - 2026-05-13T11:59:51 bump dependencies (#1478)
+- 2026-05-13T12:25:53 clean up config (#1479)
