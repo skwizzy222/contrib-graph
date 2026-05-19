@@ -1573,3 +1573,4 @@
 - 2026-05-19T15:27:55 split module (#1571)
 - 2026-05-19T15:55:31 speed up cache (#1572)
 - 2026-05-19T15:55:58 tweak defaults (#1573)
+- 2026-05-19T16:16:57 simplify branch logic (#1574)
