@@ -1574,3 +1574,4 @@
 - 2026-05-19T15:55:31 speed up cache (#1572)
 - 2026-05-19T15:55:58 tweak defaults (#1573)
 - 2026-05-19T16:16:57 simplify branch logic (#1574)
+- 2026-05-19T16:23:56 add tests (#1575)
