@@ -1606,3 +1606,4 @@
 - 2026-05-19T22:09:15 tidy imports (#1604)
 - 2026-05-19T22:29:46 fix typo (#1605)
 - 2026-05-19T22:29:59 improve naming (#1606)
+- 2026-05-19T22:43:41 harden input validation (#1607)
