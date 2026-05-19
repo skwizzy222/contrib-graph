@@ -1569,3 +1569,4 @@
 - 2026-05-19T15:08:33 bump dependencies (#1567)
 - 2026-05-19T15:10:22 add example (#1568)
 - 2026-05-19T15:16:43 remove dead code (#1569)
+- 2026-05-19T15:26:15 improve naming (#1570)
