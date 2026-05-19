@@ -1545,3 +1545,4 @@
 - 2026-05-19T10:20:46 fix edge case in lexer (#1543)
 - 2026-05-19T10:31:54 tidy imports (#1544)
 - 2026-05-19T10:46:28 fix typo (#1545)
+- 2026-05-19T10:54:24 bump dependencies (#1546)
