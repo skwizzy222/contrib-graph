@@ -1580,3 +1580,4 @@
 - 2026-05-19T17:06:40 fix edge case in lexer (#1578)
 - 2026-05-19T17:13:27 tidy imports (#1579)
 - 2026-05-19T17:30:13 clean up config (#1580)
+- 2026-05-19T17:44:26 split module (#1581)
