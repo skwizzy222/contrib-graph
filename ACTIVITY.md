@@ -1558,3 +1558,4 @@
 - 2026-05-19T12:24:46 tidy imports (#1556)
 - 2026-05-19T12:25:57 split module (#1557)
 - 2026-05-19T12:49:28 improve error messages (#1558)
+- 2026-05-19T12:49:33 handle empty input (#1559)
