@@ -1598,3 +1598,4 @@
 - 2026-05-19T21:10:25 add CI check (#1596)
 - 2026-05-19T21:15:07 bump dependencies (#1597)
 - 2026-05-19T21:15:39 harden input validation (#1598)
+- 2026-05-19T21:20:33 harden input validation (#1599)
