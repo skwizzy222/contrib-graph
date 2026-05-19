@@ -1557,3 +1557,4 @@
 - 2026-05-19T12:07:13 add example (#1555)
 - 2026-05-19T12:24:46 tidy imports (#1556)
 - 2026-05-19T12:25:57 split module (#1557)
+- 2026-05-19T12:49:28 improve error messages (#1558)
