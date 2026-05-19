@@ -1576,3 +1576,4 @@
 - 2026-05-19T16:16:57 simplify branch logic (#1574)
 - 2026-05-19T16:23:56 add tests (#1575)
 - 2026-05-19T16:56:04 add tests (#1576)
+- 2026-05-19T16:56:48 improve error messages (#1577)
