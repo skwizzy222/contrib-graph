@@ -1584,3 +1584,4 @@
 - 2026-05-19T18:10:57 update config schema (#1582)
 - 2026-05-19T18:19:51 add CI check (#1583)
 - 2026-05-19T18:37:29 clean up config (#1584)
+- 2026-05-19T18:54:36 clean up config (#1585)
