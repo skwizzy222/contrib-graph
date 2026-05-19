@@ -1564,3 +1564,4 @@
 - 2026-05-19T13:28:13 improve error messages (#1562)
 - 2026-05-19T13:30:40 refactor parser (#1563)
 - 2026-05-19T13:34:10 minor fixes (#1564)
+- 2026-05-19T14:35:48 fix typo (#1565)
