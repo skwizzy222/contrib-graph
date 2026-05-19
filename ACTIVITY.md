@@ -1600,3 +1600,4 @@
 - 2026-05-19T21:15:39 harden input validation (#1598)
 - 2026-05-19T21:20:33 harden input validation (#1599)
 - 2026-05-19T21:40:09 optimize loop (#1600)
+- 2026-05-19T21:44:34 refactor parser (#1601)
