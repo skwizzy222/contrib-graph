@@ -1561,3 +1561,4 @@
 - 2026-05-19T12:49:33 handle empty input (#1559)
 - 2026-05-19T12:56:19 fix flaky test (#1560)
 - 2026-05-19T13:18:19 add tests (#1561)
+- 2026-05-19T13:28:13 improve error messages (#1562)
