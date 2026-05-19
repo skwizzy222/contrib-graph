@@ -1592,3 +1592,4 @@
 - 2026-05-19T19:21:10 fix typo (#1590)
 - 2026-05-19T20:01:04 rename helpers (#1591)
 - 2026-05-19T20:10:26 refactor parser (#1592)
+- 2026-05-19T20:44:21 fix edge case in lexer (#1593)
