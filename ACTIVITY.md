@@ -1541,3 +1541,4 @@
 - 2026-05-19T09:50:13 rename helpers (#1539)
 - 2026-05-19T09:57:29 fix edge case in lexer (#1540)
 - 2026-05-19T10:12:17 fix edge case in lexer (#1541)
+- 2026-05-19T10:14:33 bump dependencies (#1542)
