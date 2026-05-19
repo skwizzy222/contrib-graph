@@ -1608,3 +1608,4 @@
 - 2026-05-19T22:29:59 improve naming (#1606)
 - 2026-05-19T22:43:41 harden input validation (#1607)
 - 2026-05-19T22:44:12 small cleanup (#1608)
+- 2026-05-19T22:51:43 remove dead code (#1609)
