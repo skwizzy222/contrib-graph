@@ -1536,3 +1536,4 @@
 - 2026-05-19T09:12:25 add example (#1534)
 - 2026-05-19T09:12:42 bump dependencies (#1535)
 - 2026-05-19T09:25:47 bump dependencies (#1536)
+- 2026-05-19T09:27:53 handle empty input (#1537)
