@@ -1571,3 +1571,4 @@
 - 2026-05-19T15:16:43 remove dead code (#1569)
 - 2026-05-19T15:26:15 improve naming (#1570)
 - 2026-05-19T15:27:55 split module (#1571)
+- 2026-05-19T15:55:31 speed up cache (#1572)
