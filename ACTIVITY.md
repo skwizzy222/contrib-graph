@@ -1568,3 +1568,4 @@
 - 2026-05-19T14:45:58 optimize loop (#1566)
 - 2026-05-19T15:08:33 bump dependencies (#1567)
 - 2026-05-19T15:10:22 add example (#1568)
+- 2026-05-19T15:16:43 remove dead code (#1569)
