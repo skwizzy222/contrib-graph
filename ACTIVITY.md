@@ -1577,3 +1577,4 @@
 - 2026-05-19T16:23:56 add tests (#1575)
 - 2026-05-19T16:56:04 add tests (#1576)
 - 2026-05-19T16:56:48 improve error messages (#1577)
+- 2026-05-19T17:06:40 fix edge case in lexer (#1578)
