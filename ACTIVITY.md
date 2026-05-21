@@ -1658,3 +1658,4 @@
 - 2026-05-21T18:31:52 handle empty input (#1656)
 - 2026-05-21T19:05:45 extract helper (#1657)
 - 2026-05-21T19:45:02 fix flaky test (#1658)
+- 2026-05-21T19:52:46 add CI check (#1659)
