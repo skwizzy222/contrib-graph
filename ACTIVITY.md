@@ -1629,3 +1629,4 @@
 - 2026-05-21T12:14:54 clean up config (#1627)
 - 2026-05-21T12:19:25 optimize loop (#1628)
 - 2026-05-21T12:22:42 fix edge case in lexer (#1629)
+- 2026-05-21T12:45:22 fix typo (#1630)
