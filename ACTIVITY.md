@@ -1625,3 +1625,4 @@
 - 2026-05-21T11:18:58 handle empty input (#1623)
 - 2026-05-21T11:36:47 tidy imports (#1624)
 - 2026-05-21T11:45:32 extract helper (#1625)
+- 2026-05-21T11:57:50 polish README (#1626)
