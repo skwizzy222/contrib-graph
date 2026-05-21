@@ -1671,3 +1671,4 @@
 - 2026-05-21T22:08:53 update docs (#1669)
 - 2026-05-21T22:22:48 remove dead code (#1670)
 - 2026-05-21T22:41:54 extract helper (#1671)
+- 2026-05-21T22:44:11 improve error messages (#1672)
