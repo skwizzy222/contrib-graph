@@ -1649,3 +1649,4 @@
 - 2026-05-21T16:28:45 update config schema (#1647)
 - 2026-05-21T16:57:10 add tests (#1648)
 - 2026-05-21T17:22:25 small cleanup (#1649)
+- 2026-05-21T17:27:47 improve error messages (#1650)
