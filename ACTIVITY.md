@@ -1661,3 +1661,4 @@
 - 2026-05-21T19:52:46 add CI check (#1659)
 - 2026-05-21T20:06:01 add example (#1660)
 - 2026-05-21T20:27:56 add example (#1661)
+- 2026-05-21T21:04:27 improve error messages (#1662)
