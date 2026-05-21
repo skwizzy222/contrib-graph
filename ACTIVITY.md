@@ -1620,3 +1620,4 @@
 - 2026-05-21T10:39:59 add tests (#1618)
 - 2026-05-21T10:58:11 rename helpers (#1619)
 - 2026-05-21T11:02:18 fix edge case in lexer (#1620)
+- 2026-05-21T11:07:22 simplify branch logic (#1621)
