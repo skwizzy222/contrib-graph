@@ -1665,3 +1665,4 @@
 - 2026-05-21T21:26:33 update docs (#1663)
 - 2026-05-21T21:30:14 minor fixes (#1664)
 - 2026-05-21T21:52:10 rename helpers (#1665)
+- 2026-05-21T21:56:09 update config schema (#1666)
