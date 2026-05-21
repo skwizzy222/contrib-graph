@@ -1643,3 +1643,4 @@
 - 2026-05-21T14:44:46 minor fixes (#1641)
 - 2026-05-21T15:54:37 optimize loop (#1642)
 - 2026-05-21T16:04:20 improve error messages (#1643)
+- 2026-05-21T16:14:15 extract helper (#1644)
