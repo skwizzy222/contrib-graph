@@ -1654,3 +1654,4 @@
 - 2026-05-21T17:49:06 add logging (#1652)
 - 2026-05-21T18:01:43 extract helper (#1653)
 - 2026-05-21T18:10:10 update config schema (#1654)
+- 2026-05-21T18:21:34 refactor parser (#1655)
