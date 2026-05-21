@@ -1609,3 +1609,4 @@
 - 2026-05-19T22:43:41 harden input validation (#1607)
 - 2026-05-19T22:44:12 small cleanup (#1608)
 - 2026-05-19T22:51:43 remove dead code (#1609)
+- 2026-05-21T09:14:28 update docs (#1610)
