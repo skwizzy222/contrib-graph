@@ -1616,3 +1616,4 @@
 - 2026-05-21T09:24:36 simplify branch logic (#1614)
 - 2026-05-21T09:32:28 update config schema (#1615)
 - 2026-05-21T09:39:18 refactor parser (#1616)
+- 2026-05-21T09:52:25 improve error messages (#1617)
