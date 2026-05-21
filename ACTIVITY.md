@@ -1619,3 +1619,4 @@
 - 2026-05-21T09:52:25 improve error messages (#1617)
 - 2026-05-21T10:39:59 add tests (#1618)
 - 2026-05-21T10:58:11 rename helpers (#1619)
+- 2026-05-21T11:02:18 fix edge case in lexer (#1620)
