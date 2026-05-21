@@ -1655,3 +1655,4 @@
 - 2026-05-21T18:01:43 extract helper (#1653)
 - 2026-05-21T18:10:10 update config schema (#1654)
 - 2026-05-21T18:21:34 refactor parser (#1655)
+- 2026-05-21T18:31:52 handle empty input (#1656)
