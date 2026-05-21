@@ -1615,3 +1615,4 @@
 - 2026-05-21T09:23:02 fix typo (#1613)
 - 2026-05-21T09:24:36 simplify branch logic (#1614)
 - 2026-05-21T09:32:28 update config schema (#1615)
+- 2026-05-21T09:39:18 refactor parser (#1616)
