@@ -1647,3 +1647,4 @@
 - 2026-05-21T16:25:42 add CI check (#1645)
 - 2026-05-21T16:27:50 bump dependencies (#1646)
 - 2026-05-21T16:28:45 update config schema (#1647)
+- 2026-05-21T16:57:10 add tests (#1648)
