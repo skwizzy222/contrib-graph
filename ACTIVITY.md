@@ -1753,3 +1753,4 @@
 - 2026-05-25T22:22:23 refactor parser (#1751)
 - 2026-05-25T22:34:49 improve naming (#1752)
 - 2026-05-25T22:37:52 polish README (#1753)
+- 2026-05-25T22:38:06 simplify branch logic (#1754)
