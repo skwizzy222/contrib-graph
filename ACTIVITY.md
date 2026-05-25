@@ -1746,3 +1746,4 @@
 - 2026-05-25T22:00:29 bump dependencies (#1744)
 - 2026-05-25T22:00:40 add logging (#1745)
 - 2026-05-25T22:01:16 update docs (#1746)
+- 2026-05-25T22:04:45 refactor parser (#1747)
