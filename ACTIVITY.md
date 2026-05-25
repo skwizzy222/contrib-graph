@@ -1676,3 +1676,4 @@
 - 2026-05-25T09:18:41 remove dead code (#1674)
 - 2026-05-25T09:26:00 bump dependencies (#1675)
 - 2026-05-25T09:37:21 fix flaky test (#1676)
+- 2026-05-25T10:00:32 update docs (#1677)
