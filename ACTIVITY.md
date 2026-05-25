@@ -1726,3 +1726,4 @@
 - 2026-05-25T18:51:03 optimize loop (#1724)
 - 2026-05-25T19:06:07 clean up config (#1725)
 - 2026-05-25T19:06:22 improve error messages (#1726)
+- 2026-05-25T19:09:18 update docs (#1727)
