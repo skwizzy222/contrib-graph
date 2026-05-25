@@ -1725,3 +1725,4 @@
 - 2026-05-25T18:06:55 remove dead code (#1723)
 - 2026-05-25T18:51:03 optimize loop (#1724)
 - 2026-05-25T19:06:07 clean up config (#1725)
+- 2026-05-25T19:06:22 improve error messages (#1726)
