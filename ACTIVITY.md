@@ -1741,3 +1741,4 @@
 - 2026-05-25T21:18:11 fix edge case in lexer (#1739)
 - 2026-05-25T21:30:40 improve error messages (#1740)
 - 2026-05-25T21:36:01 split module (#1741)
+- 2026-05-25T21:36:21 speed up cache (#1742)
