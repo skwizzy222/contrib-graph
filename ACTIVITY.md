@@ -1708,3 +1708,4 @@
 - 2026-05-25T15:54:52 rename helpers (#1706)
 - 2026-05-25T15:56:42 bump dependencies (#1707)
 - 2026-05-25T15:56:46 fix typo (#1708)
+- 2026-05-25T16:16:20 handle empty input (#1709)
