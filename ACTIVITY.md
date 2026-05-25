@@ -1686,3 +1686,4 @@
 - 2026-05-25T11:38:31 remove dead code (#1684)
 - 2026-05-25T11:39:06 clean up config (#1685)
 - 2026-05-25T11:40:42 harden input validation (#1686)
+- 2026-05-25T11:51:16 add example (#1687)
