@@ -1751,3 +1751,4 @@
 - 2026-05-25T22:10:17 clean up config (#1749)
 - 2026-05-25T22:22:09 tweak defaults (#1750)
 - 2026-05-25T22:22:23 refactor parser (#1751)
+- 2026-05-25T22:34:49 improve naming (#1752)
