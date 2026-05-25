@@ -1703,3 +1703,4 @@
 - 2026-05-25T14:04:39 rename helpers (#1701)
 - 2026-05-25T14:17:34 refactor parser (#1702)
 - 2026-05-25T14:32:41 improve error messages (#1703)
+- 2026-05-25T15:40:02 extract helper (#1704)
