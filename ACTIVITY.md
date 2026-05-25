@@ -1694,3 +1694,4 @@
 - 2026-05-25T12:39:35 fix flaky test (#1692)
 - 2026-05-25T12:39:53 add tests (#1693)
 - 2026-05-25T12:48:38 remove dead code (#1694)
+- 2026-05-25T13:12:56 fix edge case in lexer (#1695)
