@@ -1735,3 +1735,4 @@
 - 2026-05-25T20:20:14 optimize loop (#1733)
 - 2026-05-25T20:37:40 add tests (#1734)
 - 2026-05-25T20:43:22 simplify branch logic (#1735)
+- 2026-05-25T20:53:20 clean up config (#1736)
