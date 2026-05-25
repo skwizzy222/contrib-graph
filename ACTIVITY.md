@@ -1687,3 +1687,4 @@
 - 2026-05-25T11:39:06 clean up config (#1685)
 - 2026-05-25T11:40:42 harden input validation (#1686)
 - 2026-05-25T11:51:16 add example (#1687)
+- 2026-05-25T11:58:20 fix typo (#1688)
