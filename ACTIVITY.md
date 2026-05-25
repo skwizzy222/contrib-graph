@@ -1705,3 +1705,4 @@
 - 2026-05-25T14:32:41 improve error messages (#1703)
 - 2026-05-25T15:40:02 extract helper (#1704)
 - 2026-05-25T15:46:20 simplify branch logic (#1705)
+- 2026-05-25T15:54:52 rename helpers (#1706)
