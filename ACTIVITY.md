@@ -1702,3 +1702,4 @@
 - 2026-05-25T13:58:08 polish README (#1700)
 - 2026-05-25T14:04:39 rename helpers (#1701)
 - 2026-05-25T14:17:34 refactor parser (#1702)
+- 2026-05-25T14:32:41 improve error messages (#1703)
