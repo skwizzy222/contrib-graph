@@ -1696,3 +1696,4 @@
 - 2026-05-25T12:48:38 remove dead code (#1694)
 - 2026-05-25T13:12:56 fix edge case in lexer (#1695)
 - 2026-05-25T13:34:21 improve naming (#1696)
+- 2026-05-25T13:42:30 improve naming (#1697)
