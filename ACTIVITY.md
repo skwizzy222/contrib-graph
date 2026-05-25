@@ -1674,3 +1674,4 @@
 - 2026-05-21T22:44:11 improve error messages (#1672)
 - 2026-05-25T09:04:54 improve error messages (#1673)
 - 2026-05-25T09:18:41 remove dead code (#1674)
+- 2026-05-25T09:26:00 bump dependencies (#1675)
