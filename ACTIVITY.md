@@ -1755,3 +1755,4 @@
 - 2026-05-25T22:37:52 polish README (#1753)
 - 2026-05-25T22:38:06 simplify branch logic (#1754)
 - 2026-05-25T22:40:03 refactor parser (#1755)
+- 2026-05-25T22:56:18 add tests (#1756)
