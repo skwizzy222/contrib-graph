@@ -1824,3 +1824,4 @@
 - 2026-05-29T21:32:24 polish README (#1822)
 - 2026-05-29T21:52:25 improve error messages (#1823)
 - 2026-05-29T21:55:25 tidy imports (#1824)
+- 2026-05-29T22:08:03 improve error messages (#1825)
