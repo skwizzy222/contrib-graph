@@ -1810,3 +1810,4 @@
 - 2026-05-29T17:53:15 remove dead code (#1808)
 - 2026-05-29T17:59:00 tidy imports (#1809)
 - 2026-05-29T18:11:35 fix edge case in lexer (#1810)
+- 2026-05-29T18:25:19 improve naming (#1811)
