@@ -1759,3 +1759,4 @@
 - 2026-05-29T09:01:25 fix edge case in lexer (#1757)
 - 2026-05-29T09:05:12 remove dead code (#1758)
 - 2026-05-29T09:07:40 tidy imports (#1759)
+- 2026-05-29T09:20:43 harden input validation (#1760)
