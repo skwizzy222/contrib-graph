@@ -1762,3 +1762,4 @@
 - 2026-05-29T09:20:43 harden input validation (#1760)
 - 2026-05-29T09:20:48 remove dead code (#1761)
 - 2026-05-29T09:25:02 fix typo (#1762)
+- 2026-05-29T09:25:29 add example (#1763)
