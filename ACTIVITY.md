@@ -1784,3 +1784,4 @@
 - 2026-05-29T12:31:58 add CI check (#1782)
 - 2026-05-29T12:54:52 bump dependencies (#1783)
 - 2026-05-29T13:01:38 bump dependencies (#1784)
+- 2026-05-29T13:09:10 add tests (#1785)
