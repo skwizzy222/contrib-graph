@@ -1770,3 +1770,4 @@
 - 2026-05-29T10:14:10 speed up cache (#1768)
 - 2026-05-29T10:36:36 harden input validation (#1769)
 - 2026-05-29T11:07:06 bump dependencies (#1770)
+- 2026-05-29T11:27:15 harden input validation (#1771)
