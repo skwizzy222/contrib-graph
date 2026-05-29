@@ -1802,3 +1802,4 @@
 - 2026-05-29T15:50:31 simplify branch logic (#1800)
 - 2026-05-29T16:27:42 rename helpers (#1801)
 - 2026-05-29T16:33:56 refactor parser (#1802)
+- 2026-05-29T16:44:34 handle empty input (#1803)
