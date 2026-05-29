@@ -1829,3 +1829,4 @@
 - 2026-05-29T22:16:33 add example (#1827)
 - 2026-05-29T22:16:52 rename helpers (#1828)
 - 2026-05-29T22:17:11 tweak defaults (#1829)
+- 2026-05-29T22:28:14 handle empty input (#1830)
