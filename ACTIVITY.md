@@ -1815,3 +1815,4 @@
 - 2026-05-29T18:54:39 polish README (#1813)
 - 2026-05-29T18:57:01 add CI check (#1814)
 - 2026-05-29T19:59:40 update config schema (#1815)
+- 2026-05-29T20:05:02 add logging (#1816)
