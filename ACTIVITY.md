@@ -1793,3 +1793,4 @@
 - 2026-05-29T14:20:30 tweak defaults (#1791)
 - 2026-05-29T14:22:32 improve naming (#1792)
 - 2026-05-29T14:45:02 extract helper (#1793)
+- 2026-05-29T15:05:07 small cleanup (#1794)
