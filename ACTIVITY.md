@@ -1804,3 +1804,4 @@
 - 2026-05-29T16:33:56 refactor parser (#1802)
 - 2026-05-29T16:44:34 handle empty input (#1803)
 - 2026-05-29T16:47:19 harden input validation (#1804)
+- 2026-05-29T16:53:37 minor fixes (#1805)
