@@ -1817,3 +1817,4 @@
 - 2026-05-29T19:59:40 update config schema (#1815)
 - 2026-05-29T20:05:02 add logging (#1816)
 - 2026-05-29T20:25:07 fix edge case in lexer (#1817)
+- 2026-05-29T20:27:05 clean up config (#1818)
