@@ -1822,3 +1822,4 @@
 - 2026-05-29T21:04:22 update docs (#1820)
 - 2026-05-29T21:28:18 update config schema (#1821)
 - 2026-05-29T21:32:24 polish README (#1822)
+- 2026-05-29T21:52:25 improve error messages (#1823)
