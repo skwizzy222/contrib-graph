@@ -1773,3 +1773,4 @@
 - 2026-05-29T11:27:15 harden input validation (#1771)
 - 2026-05-29T11:27:49 add logging (#1772)
 - 2026-05-29T11:32:47 add example (#1773)
+- 2026-05-29T11:34:53 split module (#1774)
