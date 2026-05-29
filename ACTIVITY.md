@@ -1814,3 +1814,4 @@
 - 2026-05-29T18:26:31 add example (#1812)
 - 2026-05-29T18:54:39 polish README (#1813)
 - 2026-05-29T18:57:01 add CI check (#1814)
+- 2026-05-29T19:59:40 update config schema (#1815)
