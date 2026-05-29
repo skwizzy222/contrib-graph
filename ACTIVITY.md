@@ -1767,3 +1767,4 @@
 - 2026-05-29T09:58:53 handle empty input (#1765)
 - 2026-05-29T09:59:24 fix edge case in lexer (#1766)
 - 2026-05-29T10:03:16 rename helpers (#1767)
+- 2026-05-29T10:14:10 speed up cache (#1768)
