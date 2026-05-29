@@ -1806,3 +1806,4 @@
 - 2026-05-29T16:47:19 harden input validation (#1804)
 - 2026-05-29T16:53:37 minor fixes (#1805)
 - 2026-05-29T17:36:36 fix edge case in lexer (#1806)
+- 2026-05-29T17:40:15 refactor parser (#1807)
