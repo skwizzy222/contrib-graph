@@ -1777,3 +1777,4 @@
 - 2026-05-29T11:46:40 add example (#1775)
 - 2026-05-29T11:48:10 update config schema (#1776)
 - 2026-05-29T11:56:23 update docs (#1777)
+- 2026-05-29T11:57:17 rename helpers (#1778)
