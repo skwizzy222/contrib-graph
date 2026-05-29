@@ -1812,3 +1812,4 @@
 - 2026-05-29T18:11:35 fix edge case in lexer (#1810)
 - 2026-05-29T18:25:19 improve naming (#1811)
 - 2026-05-29T18:26:31 add example (#1812)
+- 2026-05-29T18:54:39 polish README (#1813)
