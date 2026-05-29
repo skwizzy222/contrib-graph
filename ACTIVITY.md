@@ -1765,3 +1765,4 @@
 - 2026-05-29T09:25:29 add example (#1763)
 - 2026-05-29T09:41:22 small cleanup (#1764)
 - 2026-05-29T09:58:53 handle empty input (#1765)
+- 2026-05-29T09:59:24 fix edge case in lexer (#1766)
