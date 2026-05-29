@@ -1771,3 +1771,4 @@
 - 2026-05-29T10:36:36 harden input validation (#1769)
 - 2026-05-29T11:07:06 bump dependencies (#1770)
 - 2026-05-29T11:27:15 harden input validation (#1771)
+- 2026-05-29T11:27:49 add logging (#1772)
