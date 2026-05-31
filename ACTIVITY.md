@@ -1868,3 +1868,4 @@
 - 2026-05-31T15:41:24 update config schema (#1866)
 - 2026-05-31T16:11:17 improve naming (#1867)
 - 2026-05-31T17:04:55 fix edge case in lexer (#1868)
+- 2026-05-31T17:06:20 fix edge case in lexer (#1869)
