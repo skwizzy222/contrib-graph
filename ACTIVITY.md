@@ -1841,3 +1841,4 @@
 - 2026-05-31T10:19:47 minor fixes (#1839)
 - 2026-05-31T10:21:08 harden input validation (#1840)
 - 2026-05-31T10:22:56 add tests (#1841)
+- 2026-05-31T10:27:24 bump dependencies (#1842)
