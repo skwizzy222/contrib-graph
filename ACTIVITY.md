@@ -1873,3 +1873,4 @@
 - 2026-05-31T17:23:16 speed up cache (#1871)
 - 2026-05-31T17:41:28 improve error messages (#1872)
 - 2026-05-31T17:46:52 fix edge case in lexer (#1873)
+- 2026-05-31T17:51:46 fix edge case in lexer (#1874)
