@@ -1891,3 +1891,4 @@
 - 2026-05-31T20:03:35 minor fixes (#1889)
 - 2026-05-31T20:14:58 bump dependencies (#1890)
 - 2026-05-31T20:15:31 refactor parser (#1891)
+- 2026-05-31T20:20:19 add logging (#1892)
