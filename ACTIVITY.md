@@ -1865,3 +1865,4 @@
 - 2026-05-31T15:24:13 tidy imports (#1863)
 - 2026-05-31T15:29:07 extract helper (#1864)
 - 2026-05-31T15:38:13 simplify branch logic (#1865)
+- 2026-05-31T15:41:24 update config schema (#1866)
