@@ -1872,3 +1872,4 @@
 - 2026-05-31T17:18:00 fix flaky test (#1870)
 - 2026-05-31T17:23:16 speed up cache (#1871)
 - 2026-05-31T17:41:28 improve error messages (#1872)
+- 2026-05-31T17:46:52 fix edge case in lexer (#1873)
