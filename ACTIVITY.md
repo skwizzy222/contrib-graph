@@ -1895,3 +1895,4 @@
 - 2026-05-31T20:24:18 improve error messages (#1893)
 - 2026-05-31T20:31:36 fix edge case in lexer (#1894)
 - 2026-05-31T20:39:24 add logging (#1895)
+- 2026-05-31T20:44:36 improve error messages (#1896)
