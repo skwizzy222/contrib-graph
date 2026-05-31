@@ -1897,3 +1897,4 @@
 - 2026-05-31T20:39:24 add logging (#1895)
 - 2026-05-31T20:44:36 improve error messages (#1896)
 - 2026-05-31T21:10:34 improve error messages (#1897)
+- 2026-05-31T21:30:19 remove dead code (#1898)
