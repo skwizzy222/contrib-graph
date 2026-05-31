@@ -1836,3 +1836,4 @@
 - 2026-05-31T09:22:41 refactor parser (#1834)
 - 2026-05-31T09:23:57 tidy imports (#1835)
 - 2026-05-31T09:30:54 extract helper (#1836)
+- 2026-05-31T10:00:30 rename helpers (#1837)
