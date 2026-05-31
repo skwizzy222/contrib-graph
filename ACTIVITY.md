@@ -1839,3 +1839,4 @@
 - 2026-05-31T10:00:30 rename helpers (#1837)
 - 2026-05-31T10:06:19 improve error messages (#1838)
 - 2026-05-31T10:19:47 minor fixes (#1839)
+- 2026-05-31T10:21:08 harden input validation (#1840)
