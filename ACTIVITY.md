@@ -1885,3 +1885,4 @@
 - 2026-05-31T19:01:29 improve error messages (#1883)
 - 2026-05-31T19:08:12 rename helpers (#1884)
 - 2026-05-31T19:19:20 add CI check (#1885)
+- 2026-05-31T19:32:53 small cleanup (#1886)
