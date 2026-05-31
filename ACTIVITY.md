@@ -1881,3 +1881,4 @@
 - 2026-05-31T18:17:20 update config schema (#1879)
 - 2026-05-31T18:25:41 add CI check (#1880)
 - 2026-05-31T18:39:20 update docs (#1881)
+- 2026-05-31T18:51:28 refactor parser (#1882)
