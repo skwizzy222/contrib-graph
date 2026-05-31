@@ -1866,3 +1866,4 @@
 - 2026-05-31T15:29:07 extract helper (#1864)
 - 2026-05-31T15:38:13 simplify branch logic (#1865)
 - 2026-05-31T15:41:24 update config schema (#1866)
+- 2026-05-31T16:11:17 improve naming (#1867)
