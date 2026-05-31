@@ -1861,3 +1861,4 @@
 - 2026-05-31T14:33:03 improve error messages (#1859)
 - 2026-05-31T14:33:24 handle empty input (#1860)
 - 2026-05-31T14:42:26 add logging (#1861)
+- 2026-05-31T14:44:00 speed up cache (#1862)
