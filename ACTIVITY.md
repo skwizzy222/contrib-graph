@@ -1899,3 +1899,4 @@
 - 2026-05-31T21:10:34 improve error messages (#1897)
 - 2026-05-31T21:30:19 remove dead code (#1898)
 - 2026-05-31T21:50:06 optimize loop (#1899)
+- 2026-05-31T21:52:02 fix edge case in lexer (#1900)
