@@ -1893,3 +1893,4 @@
 - 2026-05-31T20:15:31 refactor parser (#1891)
 - 2026-05-31T20:20:19 add logging (#1892)
 - 2026-05-31T20:24:18 improve error messages (#1893)
+- 2026-05-31T20:31:36 fix edge case in lexer (#1894)
