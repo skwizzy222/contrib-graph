@@ -1858,3 +1858,4 @@
 - 2026-05-31T14:10:54 update docs (#1856)
 - 2026-05-31T14:15:07 small cleanup (#1857)
 - 2026-05-31T14:20:36 add logging (#1858)
+- 2026-05-31T14:33:03 improve error messages (#1859)
