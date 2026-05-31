@@ -1869,3 +1869,4 @@
 - 2026-05-31T16:11:17 improve naming (#1867)
 - 2026-05-31T17:04:55 fix edge case in lexer (#1868)
 - 2026-05-31T17:06:20 fix edge case in lexer (#1869)
+- 2026-05-31T17:18:00 fix flaky test (#1870)
