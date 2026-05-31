@@ -1878,3 +1878,4 @@
 - 2026-05-31T18:03:33 update config schema (#1876)
 - 2026-05-31T18:08:34 fix edge case in lexer (#1877)
 - 2026-05-31T18:12:41 tweak defaults (#1878)
+- 2026-05-31T18:17:20 update config schema (#1879)
