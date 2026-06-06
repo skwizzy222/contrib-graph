@@ -1941,3 +1941,4 @@
 - 2026-06-06T14:12:06 extract helper (#1939)
 - 2026-06-06T14:22:26 split module (#1940)
 - 2026-06-06T14:24:56 extract helper (#1941)
+- 2026-06-06T14:35:18 fix edge case in lexer (#1942)
