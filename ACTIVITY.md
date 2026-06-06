@@ -1984,3 +1984,4 @@
 - 2026-06-06T21:42:28 fix edge case in lexer (#1982)
 - 2026-06-06T21:59:36 remove dead code (#1983)
 - 2026-06-06T22:01:07 split module (#1984)
+- 2026-06-06T22:21:54 minor fixes (#1985)
