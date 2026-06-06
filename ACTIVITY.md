@@ -1944,3 +1944,4 @@
 - 2026-06-06T14:35:18 fix edge case in lexer (#1942)
 - 2026-06-06T14:45:28 rename helpers (#1943)
 - 2026-06-06T14:47:02 extract helper (#1944)
+- 2026-06-06T15:11:46 extract helper (#1945)
