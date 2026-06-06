@@ -1951,3 +1951,4 @@
 - 2026-06-06T15:42:08 simplify branch logic (#1949)
 - 2026-06-06T15:46:41 update docs (#1950)
 - 2026-06-06T16:05:48 bump dependencies (#1951)
+- 2026-06-06T16:13:41 minor fixes (#1952)
