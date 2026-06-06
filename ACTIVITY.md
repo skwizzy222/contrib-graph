@@ -1975,3 +1975,4 @@
 - 2026-06-06T20:08:36 tweak defaults (#1973)
 - 2026-06-06T20:11:56 bump dependencies (#1974)
 - 2026-06-06T20:13:33 add tests (#1975)
+- 2026-06-06T20:19:03 remove dead code (#1976)
