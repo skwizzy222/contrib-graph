@@ -1935,3 +1935,4 @@
 - 2026-06-06T13:05:51 update docs (#1933)
 - 2026-06-06T13:06:50 improve error messages (#1934)
 - 2026-06-06T13:28:05 speed up cache (#1935)
+- 2026-06-06T13:37:14 fix edge case in lexer (#1936)
