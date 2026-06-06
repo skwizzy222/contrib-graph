@@ -1961,3 +1961,4 @@
 - 2026-06-06T17:31:58 remove dead code (#1959)
 - 2026-06-06T17:40:45 polish README (#1960)
 - 2026-06-06T18:10:12 optimize loop (#1961)
+- 2026-06-06T18:25:55 improve naming (#1962)
