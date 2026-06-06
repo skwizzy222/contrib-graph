@@ -1924,3 +1924,4 @@
 - 2026-06-06T11:48:29 add logging (#1922)
 - 2026-06-06T11:56:36 fix edge case in lexer (#1923)
 - 2026-06-06T12:04:14 add logging (#1924)
+- 2026-06-06T12:08:06 speed up cache (#1925)
