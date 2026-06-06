@@ -1915,3 +1915,4 @@
 - 2026-06-06T10:24:00 split module (#1913)
 - 2026-06-06T10:26:09 improve error messages (#1914)
 - 2026-06-06T10:41:17 update docs (#1915)
+- 2026-06-06T10:58:14 tweak defaults (#1916)
