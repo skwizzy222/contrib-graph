@@ -1913,3 +1913,4 @@
 - 2026-06-06T10:21:39 clean up config (#1911)
 - 2026-06-06T10:22:33 update docs (#1912)
 - 2026-06-06T10:24:00 split module (#1913)
+- 2026-06-06T10:26:09 improve error messages (#1914)
