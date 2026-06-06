@@ -1930,3 +1930,4 @@
 - 2026-06-06T12:24:48 minor fixes (#1928)
 - 2026-06-06T12:24:49 simplify branch logic (#1929)
 - 2026-06-06T12:37:27 rename helpers (#1930)
+- 2026-06-06T12:45:08 add tests (#1931)
