@@ -1981,3 +1981,4 @@
 - 2026-06-06T21:02:14 rename helpers (#1979)
 - 2026-06-06T21:02:18 harden input validation (#1980)
 - 2026-06-06T21:09:29 small cleanup (#1981)
+- 2026-06-06T21:42:28 fix edge case in lexer (#1982)
