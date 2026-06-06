@@ -1902,3 +1902,4 @@
 - 2026-05-31T21:52:02 fix edge case in lexer (#1900)
 - 2026-05-31T22:30:19 handle empty input (#1901)
 - 2026-05-31T22:57:51 improve naming (#1902)
+- 2026-06-06T09:01:23 fix flaky test (#1903)
