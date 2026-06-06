@@ -1980,3 +1980,4 @@
 - 2026-06-06T20:40:25 extract helper (#1978)
 - 2026-06-06T21:02:14 rename helpers (#1979)
 - 2026-06-06T21:02:18 harden input validation (#1980)
+- 2026-06-06T21:09:29 small cleanup (#1981)
