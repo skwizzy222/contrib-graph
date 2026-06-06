@@ -1904,3 +1904,4 @@
 - 2026-05-31T22:57:51 improve naming (#1902)
 - 2026-06-06T09:01:23 fix flaky test (#1903)
 - 2026-06-06T09:14:26 fix flaky test (#1904)
+- 2026-06-06T09:17:38 remove dead code (#1905)
