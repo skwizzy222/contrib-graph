@@ -1949,3 +1949,4 @@
 - 2026-06-06T15:28:48 add example (#1947)
 - 2026-06-06T15:31:19 remove dead code (#1948)
 - 2026-06-06T15:42:08 simplify branch logic (#1949)
+- 2026-06-06T15:46:41 update docs (#1950)
