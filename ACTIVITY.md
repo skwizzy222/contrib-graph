@@ -1933,3 +1933,4 @@
 - 2026-06-06T12:45:08 add tests (#1931)
 - 2026-06-06T13:02:09 polish README (#1932)
 - 2026-06-06T13:05:51 update docs (#1933)
+- 2026-06-06T13:06:50 improve error messages (#1934)
