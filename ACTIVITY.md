@@ -1918,3 +1918,4 @@
 - 2026-06-06T10:58:14 tweak defaults (#1916)
 - 2026-06-06T10:59:13 rename helpers (#1917)
 - 2026-06-06T11:06:23 polish README (#1918)
+- 2026-06-06T11:12:49 fix edge case in lexer (#1919)
