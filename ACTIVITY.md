@@ -1910,3 +1910,4 @@
 - 2026-06-06T10:06:54 tidy imports (#1908)
 - 2026-06-06T10:07:08 extract helper (#1909)
 - 2026-06-06T10:09:03 bump dependencies (#1910)
+- 2026-06-06T10:21:39 clean up config (#1911)
