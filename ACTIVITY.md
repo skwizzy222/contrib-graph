@@ -1953,3 +1953,4 @@
 - 2026-06-06T16:05:48 bump dependencies (#1951)
 - 2026-06-06T16:13:41 minor fixes (#1952)
 - 2026-06-06T16:26:36 extract helper (#1953)
+- 2026-06-06T16:29:53 update config schema (#1954)
