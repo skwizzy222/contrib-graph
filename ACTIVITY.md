@@ -1938,3 +1938,4 @@
 - 2026-06-06T13:37:14 fix edge case in lexer (#1936)
 - 2026-06-06T13:56:24 tweak defaults (#1937)
 - 2026-06-06T14:04:12 clean up config (#1938)
+- 2026-06-06T14:12:06 extract helper (#1939)
