@@ -1973,3 +1973,4 @@
 - 2026-06-06T19:38:33 polish README (#1971)
 - 2026-06-06T19:42:04 tidy imports (#1972)
 - 2026-06-06T20:08:36 tweak defaults (#1973)
+- 2026-06-06T20:11:56 bump dependencies (#1974)
