@@ -1967,3 +1967,4 @@
 - 2026-06-06T18:54:44 rename helpers (#1965)
 - 2026-06-06T19:01:34 handle empty input (#1966)
 - 2026-06-06T19:04:07 fix edge case in lexer (#1967)
+- 2026-06-06T19:20:13 bump dependencies (#1968)
